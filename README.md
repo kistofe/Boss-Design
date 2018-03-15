@@ -16,7 +16,7 @@ Thus, ideally, players should use all the things that they have learned previous
 **For example:** In "The Legend of Zelda", players obtains new skills in almost every new dungeon they visit. Since the very first moment they obtain that new skill, it is required to use it to go through the final steps of that dungeon. This progression culminates with the Boss fight, where that new skill is **absolutely key** in order to defeat the Boss. 
 
 ![](https://i.imgur.com/pIpApxb.png)
-_In the first dungeon, the player finds the Fairy Slingshot, the first new mechanic introduced in the game_
+   _In the first dungeon, the player finds the Fairy Slingshot, the first new mechanic introduced in the game_
 
 ![](https://i.imgur.com/Mm08CmJ.png)
 _During the the Boss Fight, the player has to shoot it down from the ceiling by using the Slingshot_
