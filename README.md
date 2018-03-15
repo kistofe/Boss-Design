@@ -28,8 +28,14 @@ Some of those reasons are:
    - **Emotional:**
 
 ## Types of Boss
-### Main Bosses
+
+Depending on their role, Bosses can be:
+### Mini-Bosses
+
 ### Secondary Bosses
+### Main Bosses
+### Final Boss
+
 ### Design differences between them
 
 ## Designing a Boss
@@ -42,6 +48,7 @@ Instead, it is better to introduce those new abilities or mechanics during comba
 ### Difficulty
 ### Music and Sound
 ### Visual Design
+
 ### General mistakes when designing a boss
 
 ## Boss Fight
