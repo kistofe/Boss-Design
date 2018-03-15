@@ -35,9 +35,14 @@ With Bosses, we find exactly the same thing; players need reasons to fight a Bos
 
 ## Webgraphy
 [Engaging the player in fun, appropriately challenging, and climactic fights](https://rpgmaker.net/articles/476/)
+
 [19 Most Laughably Unfair Video Game Bosses Of All Time](http://whatculture.com/gaming/19-most-laughably-unfair-bosses-of-all-time?)
+
 [What makes a successful videogame Boss?](https://www.giantbomb.com/bosses/3015-229/forums/what-makes-a-successful-videogame-boss-483021/)
+
 [Designing a Boss Fight: Lessons Learned From Modern Games](https://gamedevelopment.tutsplus.com/tutorials/designing-a-boss-fight-lessons-learned-from-modern-games--gamedev-2373)
+
 [How to Make a Great Boss Battle](https://www.goombastomp.com/make-great-boss-battle/)
+
 [Boss Battle Design and Structure](https://www.gamasutra.com/view/feature/134503/boss_battle_design_and_structure.php)
 
