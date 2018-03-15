@@ -5,7 +5,7 @@ I am CRISTIAN PALOS, student of the [Bachelor's Degree in Video Games by UPC at 
 ## Introduction
 
 
-## What do boss battles mean to players?
+## What do boss battles mean for players?
 ### Feeling of Mastery
 Boss fights have a unique feeling among all battles in videogame. They are distinct to normal battles in the sense that they do not aim to serve as learning tools or to test if the player can use new skills, they serve as **challenges to test** whether the player has mastered the previously learned skills in the game.
 
