@@ -6,9 +6,13 @@ I am CRISTIAN PALOS, student of the [Bachelor's Degree in Video Games by UPC at 
 
 ## Introduction
 
+
 ## What do boss battles mean to players?
 ### Feeling of Mastery
 ### Reasons
+It is important to know that players do not play a game because they have to, the play because they **enjoy** playing it. Thinking on optimal ways to engage the player is one of the most difficult things to do when creating a videogame but it is also key to guarantee its success. 
+
+With Bosses we find exactly the same thing; players need reasons to fight a Boss. 
 
 ## Types of Boss
 ### Main Bosses
