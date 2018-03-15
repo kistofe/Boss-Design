@@ -17,8 +17,7 @@ Thus, ideally, players should use all the things that they have learned previous
 
 ![](https://i.imgur.com/pIpApxb.png)
 
-_In the first dungeon of "The Legend of Zelda: Ocarina of Time", the player obtains the Fairy Slingshot in the middle of it_
-
+_In the first dungeon, the player finds the Fairy Slingshot, the first new mechanic introduced in the game_
 ![](https://i.imgur.com/Mm08CmJ.png)
 
 _During the the Boss Fight, the player has to shoot it down from the ceiling by using the Slingshot_
