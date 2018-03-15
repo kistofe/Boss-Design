@@ -21,7 +21,7 @@ _In the first dungeon of "The Legend of Zelda: Ocarina of Time", the player obta
 
 ![](https://i.imgur.com/Mm08CmJ.png)
 
-_In the Boss Fight, the player has to shoot it down from the ceiling by using the Slingshot_
+_During the the Boss Fight, the player has to shoot it down from the ceiling by using the Slingshot_
 
 ![](https://i.imgur.com/R5hDcNe.png)
 
