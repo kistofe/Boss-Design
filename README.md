@@ -27,6 +27,8 @@ _During the the Boss Fight, the player has to shoot it down from the ceiling by 
 
 _Once the Boss is in the floor, the player can attack it directly_
 
+_(All images above pertain to "The Legend of Zelda: Ocarina of Time", Nintendo (1998))_
+
 
 ### Reasons
 It is important to know that players do not play a game because they have to, the play because they **enjoy** playing it. Thinking on optimal ways to engage the player is one of the most difficult things to do when creating a videogame but it is also key to guarantee its success. 
