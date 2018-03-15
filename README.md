@@ -16,7 +16,17 @@ Thus, ideally, players should use all the things that they have learned previous
 **For example:** In "The Legend of Zelda", players obtains new skills in almost every new dungeon they visit. Since the very first moment they obtain that new skill, it is required to use it to go through the final steps of that dungeon. This progression culminates with the Boss fight, where that new skill is **absolutely key** in order to defeat the Boss. 
 
 ![](https://i.imgur.com/pIpApxb.png)
+
 _In the first dungeon of "The Legend of Zelda: Ocarina of Time", the player obtains the Fairy Slingshot in the middle of it_
+
+![](https://i.imgur.com/Mm08CmJ.png)
+
+_In the Boss Fight, the player has to shoot it down from the ceiling by using the Slingshot_
+
+![](https://i.imgur.com/R5hDcNe.png)
+
+_Once the Boss is in the floor, the player can attack it directly_
+
 
 ### Reasons
 It is important to know that players do not play a game because they have to, the play because they **enjoy** playing it. Thinking on optimal ways to engage the player is one of the most difficult things to do when creating a videogame but it is also key to guarantee its success. 
