@@ -11,6 +11,21 @@ I am CRISTIAN PALOS, student of the [Bachelor's Degree in Video Games by UPC at 
 ### Reasons
 
 ## Types of Boss
-## Main Bosses
-## Secondary Bosses
+### Main Bosses
+### Secondary Bosses
+### Design differences between them
+
+## Designing a Boss
+### Purpose
+### Preparation
+### Difficulty
+### Music and Sound
+### Visual Design
+### General mistakes when designing a boss
+
+## Boss Fight
+### The "Pre-Boss" area
+### The Fight
+### Combat Stage
+### Post-Battle: Rewarding the player
 
