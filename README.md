@@ -27,9 +27,9 @@ _(All images above pertain to "The Legend of Zelda: Ocarina of Time", Nintendo (
 
 
 ### Reasons
-It is important to know that players do not play a game because they have to, the play because they **enjoy** playing it. Thinking on optimal ways to engage the player is one of the most difficult things to do when creating a videogame but it is also key to guarantee its success. 
+It is important to know that players do not play a game because they have to, the play because they **enjoy** playing. Thinking on optimal ways to engage the player is one of the most difficult things to do when creating a videogame but it is also key to guarantee its success. 
 
-With Bosses, we find exactly the same thing; players need reasons to fight a Boss. (Keep explaining)
+With Bosses, we find exactly the same thing; players need reasons to fight a Boss, reasons that make them feel that they are not wasting their time. 
 
 Some of those reasons are:
    - **Loot:** 
@@ -39,8 +39,8 @@ Some of those reasons are:
    - **Emotional:**
 
 ## Types of Boss
-
 Depending on their role, Bosses can be:
+
 ### Mini-Bosses
 
 ### Secondary Bosses
