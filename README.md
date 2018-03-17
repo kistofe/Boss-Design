@@ -57,6 +57,9 @@ _For the player, to face Red does not only mean to defeat the strongest characte
 
 ## Designing a Boss
 ### Purpose
+The first thing to have in mind when designing a Boss, is its _purpose_. This is probably one of the most important steps in the design process as we are basically creating the "pillars" on which the entire Boss Fight will be based. This process is divided in 3 steps:
+
+1. List of the skill to test: 
 ### Preparation
 As mentioned when talking about the [Feeling of Mastery](https://github.com/kistofe/Boss-Design/blob/gh-pages/README.md#feeling-of-mastery), Bosses are like tests to the player to ensure they master a certain degree of skill. Knowing that, a Boss Fight should not be the moment to introduce new abilities or mechanics to players, as they would need to adapt to them during the fight itself. 
 
