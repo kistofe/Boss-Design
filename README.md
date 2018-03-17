@@ -56,6 +56,9 @@ Here's a list of possible reasons you may base your Boss designs on:
 _For the player, to face Red does not only mean to defeat the strongest character in the whole game, but to overcome themselves, as they are basically facing their avatar in the previous game. This link has turned this optional fight into something almost mandatory to any Pokemon fan. (Image from "Pokemon Gold/Silver/Crystal, Nintendo (1999-2001))_
 
 ## Designing a Boss
+Although there's nothing like a magic formula to create easily the perfect Boss, there exists some aspects that well merged can put you in a good spot in this difficult task. 
+
+
 ### Purpose
 The first thing to have in mind when designing a Boss, is its _purpose_. This is probably one of the most important steps in the design process as we are basically creating the "pillars" on which the entire Boss Fight will be based. This process is divided in 3 steps. To illustrate them better, let's go one by one following an example from **"Hollow Knight" (Team Cherry, 2017)**.
 
@@ -87,6 +90,8 @@ Instead, it is better to introduce those new abilities or mechanics during comba
 
 ### Difficulty
 ### Music and Sound
+
+
 ### Visual Design
 
 ### General mistakes when designing a boss
