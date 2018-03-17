@@ -92,7 +92,13 @@ Instead, it is better to introduce those new abilities or mechanics during comba
 ### Music and Sound
 Music and Sound may sometimes go unnoticed by the player during the Boss Fight, however, this is not a reason not to put effort into creating a good audio to fit your Boss design. 
 
-Music is a powerful tool to create feelings in the player. We all can remember, at least, one Boss battle theme we came across when playing a videogame. I
+Music is a powerful tool to create feelings in the player. A good battle theme is the one that flows with the battle, the one that increases its pace when the battle does too and decreases it when the battle slows down. Having a good design accompanied by a lack of music or a repeatitive, generic one, can ruin all your efforts and turn what should have been a good battle into something dull. 
+
+_Anyone who has ever played Final Fantasy could recognize [Sephiroth's theme](https://www.youtube.com/watch?v=t7wJ8pE2qKU) just by listening a few seconds from it. Same applies with [San's theme], from 2015's Undertale._
+However, having a great battle theme is not enough if it is not appropriate to the theme of the boss or the game. The theme has to **fit** with the scene, or it will only give the sensation that the music is there because someone in the team liked it. 
+
+The same applies with Sound effects. Having a big, heavy-looking Boss accompanied with not heavy-sounding sound effects may be confusing to the player. Be coherent with this!
+
 
 ### Visual Design
 
