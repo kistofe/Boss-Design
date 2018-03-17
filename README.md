@@ -94,4 +94,5 @@ Instead, it is better to introduce those new abilities or mechanics during comba
 
 ### Videos
 
+[Good Game Design: Bosses](https://www.youtube.com/watch?v=YmwLPF11eos)
 
