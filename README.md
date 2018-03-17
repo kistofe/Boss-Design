@@ -33,7 +33,7 @@ With Bosses, we find exactly the same thing; players need reasons to fight a Bos
 
 Here's a list of possible reasons you may base your Boss designs on:
 
-   - **Loot:** Generally used in Secondary Bosses. As simple as "you defeat that big boss, you get this powerful weapon". Genres like MMos are highly centered on this kind of Boss design.  
+   - **Loot:** Generally used in Secondary Bosses. As simple as "you defeat that big boss, you get this powerful weapon". Genres like MMOs are highly centered on this kind of Boss design.  
    - **High Difficulty:** May not be liked by everyone, but a Boss with exceptional difficulty can be the only reason to fight a Secondary Boss, or can be an extra reason to prepare to fight a Main Boss. 
    - **Unlocking next areas:** 
    - **Plot-evolvers:** Exclusive for Main Bosses. As its name states, defeating these kind of Bosses makes the plot advance. 
