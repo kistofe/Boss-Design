@@ -92,17 +92,27 @@ Instead, it is better to introduce those new abilities or mechanics during comba
 ### Music and Sound
 Music and Sound may sometimes go unnoticed by the player during the Boss Fight. However, this is not a reason not to put effort into creating a good audio to fit your Boss design. 
 
-Music is a powerful tool to create feelings in the player. A good battle theme is the one that flows with the battle, the one that increases its pace when the battle does too and decreases it when the battle slows down. Having a good design accompanied by a lack of music or a repeatitive, generic one, can ruin all your efforts and turn what should have been a good battle into something dull. 
+Music is a powerful tool to create feelings in the player. A good battle theme is the one that flows with the battle, the one that increases its pace when the battle does too, and decreases it when the battle slows down. Having a good design accompanied by a lack of music or a repetitive, generic one, can ruin all your efforts and turn, what should have been a good battle, into something dull. 
 
-_Anyone who has ever played Final Fantasy could recognize [Sephiroth's theme](https://www.youtube.com/watch?v=t7wJ8pE2qKU) just by listening a few seconds from it. Same applies with [San's theme](https://www.youtube.com/watch?v=ZcoqR9Bwx1Y), from 2015's Undertale._
+_Anyone who has ever played Final Fantasy can recognize [Sephiroth's theme](https://www.youtube.com/watch?v=t7wJ8pE2qKU) just by listening a few seconds from it. Same applies with [San's theme](https://www.youtube.com/watch?v=ZcoqR9Bwx1Y), from 2015's Undertale._
+
 However, having a great battle theme is not enough if it is not appropriate to the theme of the boss or the game. The theme has to **fit** with the scene, or it will only give the sensation that the music is there because someone in the team liked it. 
 
 The same applies with Sound effects. Having a big, heavy-looking Boss accompanied with not heavy-sounding sound effects may be confusing to the player. Be coherent with this!
 
 
 ### Visual Design
+Bosses should stand out from any other kind of enemy on the map. They have to be easily recognizable by the player, as they will focus their attention on them. 
 
 ### General mistakes when designing a boss
+
+**More HP, more difficulty**
+One of the most extend mistakes when designing bosses is to think that increasing the amount of HP they have will instantly increase its difficulty. In some way, it does, but what we are doing here is creating **artificial difficulty** which does not improve the gaming experience of the player in any sense. Combats with this kind of bosses tend to result tedious and repetitive to the player, which is something designers should avoid. 
+
+**Strange gimmmicks not explained to the player**
+A classic mistake among unexperienced designers is to think that anything goes when talking about originality. When designing, in this case, a Boss, we all try to be different from the rest and try to come up with a great idea to blow up the players mind. This is a dangerous moment, because it is easy to jump from a good, original idea, into something completely the opposite. 
+
+Introducing strange gimmicks during Boss battles without giving any hint to the player to overcome them, is not a good design flow. Players need to feel they are in control of the situation or, at least, that they know how to respond to unexpected moments. 
 
 ## Boss Fight
 ### The "Pre-Boss" area
