@@ -54,7 +54,7 @@ Depending on their role, Bosses can be:
 ### Preparation
 As mentioned when talking about the [Feeling of Mastery](https://github.com/kistofe/Boss-Design/blob/gh-pages/README.md#feeling-of-mastery), Bosses are like tests to the player to ensure they master a certain degree of skill. Knowing that, a Boss Fight should not be the moment to introduce new abilities or mechanics to players, as they would need to adapt to them during the fight itself. 
 
-Instead, it is better to introduce those new abilities or mechanics during combats with regular enemies, as they are (generally) less punishing than boss fights, and then test the mastery of them in a Boss Fight. 
+Instead, it is better to introduce those new abilities or mechanics during combats with regular enemies, as they are (generally) less punishing than boss fights.
 
 ### Difficulty
 ### Music and Sound
