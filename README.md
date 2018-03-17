@@ -49,7 +49,7 @@ Here's a list of possible reasons you may base your Boss designs on:
    - **High Difficulty:** May not be liked by everyone, but a Boss with exceptional difficulty can be the only reason to fight a Secondary Boss, or can be an extra reason to prepare to fight a Main Boss. 
    - **Unlocking next areas:** 
    - **Plot-evolvers:** Exclusive for Main Bosses. As its name states, defeating these kind of Bosses makes the plot advance. 
-   - **Emotional:** Can be used for both Secondary or Main Bosses. The player has some kind of personal link with the Boss that pushes them towards fighting it. A really good and clear example of these kind of Bosses is **Red**, from Pokemon Silver/Gold/Crystal.
+   - **Emotional:** Can be used for both Secondary or Main Bosses. Players has some kind of personal link with the Boss that pushes them towards fighting it. A really good and clear example of these kind of Bosses is **Red**, from Pokemon Silver/Gold/Crystal.
    
 ![](https://i.imgur.com/wtOUZuT.png)
    
@@ -79,8 +79,6 @@ Instead, it is better to introduce those new abilities or mechanics during comba
 ### Articles
 [Engaging the player in fun, appropriately challenging, and climactic fights](https://rpgmaker.net/articles/476/)
 
-[19 Most Laughably Unfair Video Game Bosses Of All Time](http://whatculture.com/gaming/19-most-laughably-unfair-bosses-of-all-time?)
-
 [What makes a successful videogame Boss?](https://www.giantbomb.com/bosses/3015-229/forums/what-makes-a-successful-videogame-boss-483021/)
 
 [Designing a Boss Fight: Lessons Learned From Modern Games](https://gamedevelopment.tutsplus.com/tutorials/designing-a-boss-fight-lessons-learned-from-modern-games--gamedev-2373)
@@ -89,6 +87,8 @@ Instead, it is better to introduce those new abilities or mechanics during comba
 
 [Boss Battle Design and Structure](https://www.gamasutra.com/view/feature/134503/boss_battle_design_and_structure.php)
 
+[Essential Ingredients for an Unforgettable Boss Battle](http://mentalblockgaming.com/blog/game-design/boss-fights/)
+
 ### Videos
-[Top 10 videogame Sub-Bosses](https://www.youtube.com/watch?v=01dSPa8sfwc)
+
 
