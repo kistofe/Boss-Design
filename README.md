@@ -40,7 +40,7 @@ Here's a list of possible reasons you may base your Boss designs on:
    - **Emotional:** Can be used for both Secondary or Main Bosses. The player has some kind of personal link with the Boss that pushes them towards fighting it. Some examples of these kind of Bosses are **Red**, from Pokemon Silver/Gold/Crystal or **Artorias and Sif** from Dark Souls.
    
    ![](https://i.imgur.com/wtOUZuT.png)
-   _For the player, to face Red does not only mean to defeat the strongest character in the whole game, but to overcome themselves, as they are basically facing their avatar in the previous game. This link has turned this optional fight into something almost mandatory to any Pokemon fan. (Image from "Pokemon Gold/Silver/Crystal, Nintendo (1999-2001))
+_For the player, to face Red does not only mean to defeat the strongest character in the whole game, but to overcome themselves, as they are basically facing their avatar in the previous game. This link has turned this optional fight into something almost mandatory to any Pokemon fan. (Image from "Pokemon Gold/Silver/Crystal, Nintendo (1999-2001))_
 
 ## Types of Boss
 Depending on their role, Bosses can be:
