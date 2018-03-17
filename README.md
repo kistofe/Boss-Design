@@ -9,13 +9,14 @@ I am CRISTIAN PALOS, student of the [Bachelor's Degree in Video Games by UPC at 
 Depending on their role, Bosses can be:
 
 ### Mini-Boss or Sub-Boss
-They are not "Bosses" as we all know, but exceptionally strong enemies that tend to appear in the middle of a level. With a Mini-Boss design, what is more important is to center on its gameplay, rather than other aspects other type of Bosses do have. 
-
+They are not "Bosses" as we all know, but exceptionally strong enemies that tend to appear in the middle of a level. 
 
 ### Secondary Boss
 ### Main Boss
 ### Final Boss
+The Final Boss of a videogame is also a kind of Main Boss. It differs from the rest in the fact that it generally appears more than once throughout the whole game, which creates a deeper relation with the player. Memorable  
 
+### Design differences between them
 ## What do boss battles mean for players?
 ### Feeling of Mastery
 Boss fights have a unique feeling among all battles in videogame. They are distinct to normal battles in the sense that they do not aim to serve as learning tools or to test if the player can use new skills, they serve as challenges to test whether the player has mastered the previously learned skills in the game.
@@ -53,8 +54,6 @@ Here's a list of possible reasons you may base your Boss designs on:
 ![](https://i.imgur.com/wtOUZuT.png)
    
 _For the player, to face Red does not only mean to defeat the strongest character in the whole game, but to overcome themselves, as they are basically facing their avatar in the previous game. This link has turned this optional fight into something almost mandatory to any Pokemon fan. (Image from "Pokemon Gold/Silver/Crystal, Nintendo (1999-2001))_
-
-### Design differences between them
 
 ## Designing a Boss
 ### Purpose
