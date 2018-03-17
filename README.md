@@ -78,7 +78,7 @@ _One of the False Knight's attacks is a heavy smash which sends out shockwaves. 
 
 ![](https://i.imgur.com/SFOjytF.png)
 
-_How could a heavy smash to the ground be done? Why not trying with a giant mace?._
+_How could a heavy smash to the ground be done? Why not trying with a giant mace?_
 
 ### Preparation
 As mentioned when talking about the [Feeling of Mastery](https://github.com/kistofe/Boss-Design/blob/gh-pages/README.md#feeling-of-mastery), Bosses are like tests to the player to ensure they master a certain degree of skill. Knowing that, a Boss Fight should not be the moment to introduce new abilities or mechanics to players, as they would need to adapt to them during the fight itself. 
