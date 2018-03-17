@@ -57,9 +57,20 @@ _For the player, to face Red does not only mean to defeat the strongest characte
 
 ## Designing a Boss
 ### Purpose
-The first thing to have in mind when designing a Boss, is its _purpose_. This is probably one of the most important steps in the design process as we are basically creating the "pillars" on which the entire Boss Fight will be based. This process is divided in 3 steps:
+The first thing to have in mind when designing a Boss, is its _purpose_. This is probably one of the most important steps in the design process as we are basically creating the "pillars" on which the entire Boss Fight will be based. This process is divided in 3 steps, to illustrate them better, let's go one by one following an example from "Hollow Knight" (Team Cherry, 2017).
 
-1. List of the skill to test: 
+1. **List of the skill to test:** Bosses are like tests for players, so the first thing to think about is _what_ is going to be tested with this boss. 
+
+![](https://i.imgur.com/iLNXFwb.png)
+_Let's say for example we want to test the jump mechanic of the main character._
+
+2. **List of attacks or challenges that will test that skill:** Now we have decided _what_ to test, we have to think _how_ to actually test it. In this step, it is recommended to think of those challenges independently to avoid limiting our ideas on the actual design of the boss. 
+
+![](https://i.imgur.com/YZWH6vY.png)
+![](https://i.imgur.com/WDH6wGU.png)
+_One of the False Knight's attacks is a heavy smash which sends out shockwaves. The player has to jump over them to avoid damage._
+
+
 ### Preparation
 As mentioned when talking about the [Feeling of Mastery](https://github.com/kistofe/Boss-Design/blob/gh-pages/README.md#feeling-of-mastery), Bosses are like tests to the player to ensure they master a certain degree of skill. Knowing that, a Boss Fight should not be the moment to introduce new abilities or mechanics to players, as they would need to adapt to them during the fight itself. 
 
@@ -90,7 +101,7 @@ Instead, it is better to introduce those new abilities or mechanics during comba
 
 [Boss Battle Design and Structure](https://www.gamasutra.com/view/feature/134503/boss_battle_design_and_structure.php)
 
-[Essential Ingredients for an Unforgettable Boss Battle](http://mentalblockgaming.com/blog/game-design/boss-fights/)
+[7 Essential Ingredients for an Unforgettable Boss Battle](http://mentalblockgaming.com/blog/game-design/boss-fights/)
 
 ### Videos
 
