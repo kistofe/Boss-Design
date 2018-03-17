@@ -5,6 +5,17 @@ I am CRISTIAN PALOS, student of the [Bachelor's Degree in Video Games by UPC at 
 ## Introduction
 
 
+## Types of Boss
+Depending on their role, Bosses can be:
+
+### Mini-Boss or Sub-Boss
+They are not "Bosses" as we all know, but exceptionally strong enemies that tend to appear in the middle of a level. With a Mini-Boss design, what is more important is to center on its gameplay, rather than other aspects other type of Bosses do have. 
+
+
+### Secondary Boss
+### Main Boss
+### Final Boss
+
 ## What do boss battles mean for players?
 ### Feeling of Mastery
 Boss fights have a unique feeling among all battles in videogame. They are distinct to normal battles in the sense that they do not aim to serve as learning tools or to test if the player can use new skills, they serve as challenges to test whether the player has mastered the previously learned skills in the game.
@@ -43,15 +54,6 @@ Here's a list of possible reasons you may base your Boss designs on:
    
 _For the player, to face Red does not only mean to defeat the strongest character in the whole game, but to overcome themselves, as they are basically facing their avatar in the previous game. This link has turned this optional fight into something almost mandatory to any Pokemon fan. (Image from "Pokemon Gold/Silver/Crystal, Nintendo (1999-2001))_
 
-## Types of Boss
-Depending on their role, Bosses can be:
-
-### Mini-Bosses
-
-### Secondary Bosses
-### Main Bosses
-### Final Boss
-
 ### Design differences between them
 
 ## Designing a Boss
@@ -74,6 +76,8 @@ Instead, it is better to introduce those new abilities or mechanics during comba
 ### Post-Battle: Rewarding the player
 
 ## Webgraphy
+
+### Articles
 [Engaging the player in fun, appropriately challenging, and climactic fights](https://rpgmaker.net/articles/476/)
 
 [19 Most Laughably Unfair Video Game Bosses Of All Time](http://whatculture.com/gaming/19-most-laughably-unfair-bosses-of-all-time?)
@@ -85,4 +89,7 @@ Instead, it is better to introduce those new abilities or mechanics during comba
 [How to Make a Great Boss Battle](https://www.goombastomp.com/make-great-boss-battle/)
 
 [Boss Battle Design and Structure](https://www.gamasutra.com/view/feature/134503/boss_battle_design_and_structure.php)
+
+### Videos
+[Top 10 videogame Sub-Bosses](https://www.youtube.com/watch?v=01dSPa8sfwc)
 
