@@ -90,7 +90,7 @@ Instead, it is better to introduce those new abilities or mechanics during comba
 
 ### Difficulty
 ### Music and Sound
-Music and Sound may sometimes go unnoticed by the player during the Boss Fight, however, this is not a reason not to put effort into creating a good audio to fit your Boss design. 
+Music and Sound may sometimes go unnoticed by the player during the Boss Fight. However, this is not a reason not to put effort into creating a good audio to fit your Boss design. 
 
 Music is a powerful tool to create feelings in the player. A good battle theme is the one that flows with the battle, the one that increases its pace when the battle does too and decreases it when the battle slows down. Having a good design accompanied by a lack of music or a repeatitive, generic one, can ruin all your efforts and turn what should have been a good battle into something dull. 
 
