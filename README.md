@@ -7,7 +7,7 @@ I am CRISTIAN PALOS, student of the [Bachelor's Degree in Video Games by UPC at 
 
 ## What do boss battles mean for players?
 ### Feeling of Mastery
-Boss fights have a unique feeling among all battles in videogame. They are distinct to normal battles in the sense that they do not aim to serve as learning tools or to test if the player can use new skills, they serve as **challenges to test** whether the player has mastered the previously learned skills in the game.
+Boss fights have a unique feeling among all battles in videogame. They are distinct to normal battles in the sense that they do not aim to serve as learning tools or to test if the player can use new skills, they serve as challenges to test whether the player has mastered the previously learned skills in the game.
 
 Ideally, players should use all the things that they have learned previously to the boss during the battle and, when defeating it, they should feel like the really do master those skills.
 
@@ -31,11 +31,12 @@ It is important to know that players do not play a game because they have to, th
 
 With Bosses, we find exactly the same thing; players need reasons to fight a Boss, reasons that make them feel that they are not wasting their time. 
 
-Some of those reasons are:
-   - **Loot:** 
-   - **High Difficulty:**
-   - **Unlocking next areas:**
-   - **Plot-evolvers:**
+Here's a list of possible reasons you may base your Boss designs on:
+
+   - **Loot:** Generally used in Secondary Bosses. As simple as "you defeat that big boss, you get this powerful weapon". Genres like MMos are highly centered on this kind of Boss design.  
+   - **High Difficulty:** May not be liked by everyone, but a Boss with exceptional difficulty can be the only reason to fight a Secondary Boss, or can be an extra reason to prepare to fight a Main Boss. 
+   - **Unlocking next areas:** 
+   - **Plot-evolvers:** Exclusive for Main Bosses. As its name states, defeating these kind of Bosses makes the plot advance. 
    - **Emotional:**
 
 ## Types of Boss
