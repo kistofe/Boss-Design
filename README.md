@@ -92,6 +92,14 @@ As mentioned when talking about the [Feeling of Mastery](https://github.com/kist
 Instead, it is better to introduce those new abilities or mechanics during combats with regular enemies, as they are (generally) less punishing than boss fights.
 
 ### Difficulty
+Many designers, when creating their Bosses, ask themselves: How do I make my Boss challenging without overpowering it? Well, to create a good difficulty curve for a Boss is not an easy task, but there are some things to take into account:
+
+   - It should adjust to the player's current state of development in the game, in a natural way. It means that Bosses at first stages of the game should only challenge the basic mechanics of it, as it's all the player will have learned up to that moment. Bosses near middle stages should test the comprehension and usage of all learned abilities since that moment. Finally, Bosses near the final stages should not only test that, but also the optimal usage and the ability of the player to overcome the challenges presented during the fight by using those mastered skills. 
+   - It should stay true to the gameplay difficulty; it has no sense to introduce an extremely difficult boss in a suitable for all audiences game. 
+   
+   ![](https://i.imgur.com/Ym5Jw8j.jpg) ![](https://i.imgur.com/fci6s4X.jpg)   
+   _The kind of Bosses in Super Mario would feel out of place in a game like Super Meat Boy, known for its high difficulty. (New Super Mario Bros (left), Nintendo (2006)/ Super Meat Boy (right), Team Meat (2008))_
+
 ### Music and Sound
 Music and Sound may sometimes go unnoticed by the player during the Boss Fight. However, this is not a reason not to put effort into creating a good audio to fit your Boss design. 
 
