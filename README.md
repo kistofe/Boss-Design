@@ -108,7 +108,7 @@ Bosses should stand out from any other kind of enemy on the map. They have to be
 
 **More HP, more difficulty**
 
-One of the most extend mistakes when designing bosses is to think that increasing the amount of HP they have will instantly increase its difficulty. In some way, it does, but what we are doing here is creating **artificial difficulty** which does not improve the gaming experience of the player in any sense. Combats with this kind of bosses tend to result tedious and repetitive to the player, which is something designers should avoid. 
+One of the most extended mistakes when designing bosses is to think that increasing the amount of HP they have will instantly increase its difficulty. In some way, it does, but what we are doing here is creating **artificial difficulty** which does not improve the gaming experience of the player in any sense. Combats with this kind of bosses tend to result tedious and repetitive to the player, which is something designers should avoid. 
 
 **Strange gimmmicks not explained to the player**
 
