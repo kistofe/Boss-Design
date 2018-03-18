@@ -1,5 +1,5 @@
 # A guide to videogame Boss Design
-![](https://i.imgur.com/XhvY5kD.png)
+![](https://i.imgur.com/XhvY5kD.png)   
 _Bowser, from the Super Mario franchise (Nintendo)_
 
 ## About the author
