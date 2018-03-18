@@ -35,9 +35,9 @@ _In the first dungeon, the player finds the Fairy Slingshot, the first new mecha
 _During the the Boss Fight, the player has to shoot it down from the ceiling by using the Slingshot_
 
 ![](https://i.imgur.com/R5hDcNe.png)
-_Once the Boss is on the floor, the player can attack it directly_
+>_Once the Boss is on the floor, the player can attack it directly_
 
-_(All images above pertain to "The Legend of Zelda: Ocarina of Time", Nintendo (1998))_
+>_(All images above pertain to "The Legend of Zelda: Ocarina of Time", Nintendo (1998))_
 
 
 ### Reasons
