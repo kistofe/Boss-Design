@@ -145,7 +145,7 @@ Randomness can be a powerful tool, but also a dangerous one. It is used in party
 
 Randomness in videogames has always existed, but the incorrect use of it has a negative impact on the experience. Imagine an RPG Boss that each turn had a 50% chance to knock one of your team members down. Sounds funny? 
 
-When fighting a Boss, players should feel like they can always win a Boss if they make the right decisions with the tools they have. Adding a high amount of randomness would break that feeling and would probably frustrate the player. 
+When fighting a Boss, players should feel like they can always win if they make the right decisions with the tools they have. Adding a high amount of randomness would break that feeling and would probably frustrate the player. 
 
 **Breaking the Game rules**   
 Breaking the Game rules means to do the opposite the player has been taught during the whole game. Let's directly jump to an example: Marie, the final Boss of the History Mode of **Skullgirls (Reverge Labs, 2012).**
