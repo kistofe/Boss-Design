@@ -140,8 +140,8 @@ All the previous fights to her, are regular fighting-game fights, where you lear
 
 As Marie is basically static in the screen, the player can not predict her next move. All these elements, removed the strategy component  of the fight and turned it into a Heavy-attack-spam. 
 
-![](https://github.com/kistofe/Boss-Design/blob/master/ezgif.com-video-to-gif.gif)
-_Maries is not affected by hitstun and can throw atacks from so many different directions, making it almost impossible for the player to predict it._
+![](https://github.com/kistofe/Boss-Design/blob/master/ezgif.com-video-to-gif.gif)   
+_Marie is not affected by hitstun and can throw atacks from so many different directions, making it almost impossible for the player to predict it._
 
 It is important to keep in mind what your game rules are when designing a Boss, and to be faithful to them.  
 
