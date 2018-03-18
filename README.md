@@ -120,13 +120,25 @@ A classic mistake among unexperienced designers is to think that anything goes w
 
 Introducing strange gimmicks during Boss battles without giving any hint to the player to overcome them, is not a good design flow. Players need to feel they are in control of the situation or, at least, that they have the tools to respond to unexpected moments. 
 
-![](https://i.imgur.com/ODcsmJD.png)
+![](https://i.imgur.com/ODcsmJD.png)   
 _Ruby Weapon, in Final Fantasy VII, is completely immune to damage unless you enter its battle with two of your team members dead. This, of course, is not even explained to the player inside the game. (Final Fantasy VII, Squaresoft (1999))_
 
 **Randomness**   
 Randomness can be a powerful tool, but also a dangerous one. It is used in party games to reduce the skill gap between players, as party games aim for the spontaneous fun and not for the correct skill development of the players. 
 
-Randomness in videogames has always existed, but the incorrect use of it has a negative impact on the experience. Imagine a Boss that each turn had a 
+Randomness in videogames has always existed, but the incorrect use of it has a negative impact on the experience. Imagine an RPG Boss that each turn had a 50% chance to knock one of your team members down. Sounds funny? 
+
+When fighting a Boss, players should feel like they can always win a Boss if they make the right decisions with the tools they have. Adding a high amount of randomness would break that feeling and would probably frustrat the player. 
+
+**Breaking the Game rules**   
+Breaking the Game rules means to do the opposite the player has been taught during the whole game. Let's directly jump to an example: Marie, the final Boss of the History Mode of **Skullgirls (Reverge Labs, 2012).**
+
+![](https://i.imgur.com/1h2ue0T.jpg)
+_Marie, from Skullgirls._
+
+All the previous fights to her, are regular fighting-game fights, where you learn the basics of the combat system. However, she can't be stunned, grabbed (not even by Blockbuster moves) or launched. Besides, She attacks from so many different ways at the same time, making it difficult to avoid, specially because some of those attacks require fast movement reaction, which not all the characters have. 
+
+In conclusion, Marie's fight is more of a Platformer Boss rather than a Fighting game one. 
 
 
 ## Boss Fight
