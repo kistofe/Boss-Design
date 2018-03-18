@@ -56,6 +56,7 @@ Here's a list of possible reasons you may base your Boss designs on:
    
    - **Plot-evolvers:** Exclusive for Main Bosses. As its name states, defeating these kind of Bosses makes the plot advance.  
    
+   
    - **Emotional:** Can be used for both Secondary or Main Bosses. Players have some kind of personal link with the Boss that pushes them towards fighting it. A really good and clear example of these kind of Boss is **Red**, from Pokemon Silver/Gold/Crystal.
    
 ![](https://i.imgur.com/wtOUZuT.png)
