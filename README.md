@@ -72,7 +72,7 @@ Although there's nothing like a magic formula to create easily the perfect Boss,
 ### Purpose
 The first thing to have in mind when designing a Boss, is its _purpose_. This is probably one of the most important steps in the design process as we are basically creating the "pillars" on which the entire Boss Fight will be based. This process is divided in 3 steps. To illustrate them better, let's go one by one following an example from **"Hollow Knight" (Team Cherry, 2017)**.
 
-1. **List of the skill to test:** Bosses are like tests for players, so the first thing to think about is _what_ is going to be tested with this boss. 
+1.**List of the skill to test:** Bosses are like tests for players, so the first thing to think about is _what_ is going to be tested with this boss. 
 
 ![](https://i.imgur.com/iLNXFwb.png)
 
