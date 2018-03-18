@@ -47,7 +47,7 @@ Here's a list of possible reasons you may base your Boss designs on:
 
    - **Loot:** Generally used in Secondary Bosses. As simple as "you defeat that big boss, you get this powerful weapon". Genres like MMOs are highly centered on this kind of Boss design.  
    - **High Difficulty:** May not be liked by everyone, but an exceptional difficulty can be the only reason to fight a Secondary Boss, or can be an extra reason to prepare to fight a Main Boss. 
-   ![](https://i.imgur.com/e29BZff.png)
+   ![](https://i.imgur.com/e29BZff.png)   
    _Dark Souls is well-known for the difficulty of its Bosses, which has attracted more players to the game (Ornstein and Smough - Dark Souls, From Software(2011))_
    
    - **Unlocking next areas:** 
