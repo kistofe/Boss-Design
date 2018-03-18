@@ -50,24 +50,18 @@ Here's a list of possible reasons you may base your Boss designs on:
 
    - **Loot:** Generally used in Secondary Bosses. As simple as "you defeat that big boss, you get this powerful weapon". Genres like MMOs are highly centered on this kind of Boss design.
    
-   
    - **High Difficulty:** May not be liked by everyone, but an exceptional difficulty can be the only reason to fight a Secondary Boss, or can be an extra reason to prepare to fight a Main Boss. 
    ![](https://i.imgur.com/e29BZff.png)   
    _Dark Souls is well-known for the difficulty of its Bosses, which has attracted more players to the game (Ornstein and Smough - Dark Souls, From Software(2011))_
-   
-   
+     
    - **Unlocking next areas:** Which can be extra areas (in this case we are generally talking about Secondary Bosses) or areas according to the plot of the game (in this case, Main Bosses). 
-   
-   
+      
    - **Plot-evolvers:** Exclusive for Main Bosses. As its name states, defeating these kind of Bosses makes the plot advance.  
-   
-   
+      
    - **Emotional:** Can be used for both Secondary or Main Bosses. Players have some kind of personal link with the Boss that pushes them towards fighting it. A really good and clear example of these kind of Boss is **Red**, from Pokemon Silver/Gold/Crystal.
    
    ![](https://i.imgur.com/wtOUZuT.png)   
    _For the player, to face Red does not only mean to defeat the strongest character in the whole game, but to overcome themselves, as they are basically facing their avatar in the previous game. This link has turned this optional fight into something almost mandatory to any Pokemon fan. (Image from "Pokemon Gold/Silver/Crystal, Nintendo (1999-2001))_
-
-
 
 
 ## Designing a Boss
