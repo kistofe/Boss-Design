@@ -23,7 +23,7 @@ Boss fights have a unique feeling among all battles in videogame. They are disti
 
 Ideally, players should use all the things that they have learned previously to the boss during the battle and, when defeating it, they should feel like the really do master those skills.
 
-**For example:** In "The Legend of Zelda", players obtains new skills in almost every new dungeon they visit. Since the very first moment they obtain that new skill, it is required to use it to go through the final steps of that dungeon. This progression culminates with the Boss fight, where that new skill is **absolutely key** in order to defeat the Boss. 
+**For example:** In "The Legend of Zelda", players obtain new skills in almost every new dungeon they visit. Since the very first moment they obtain that new skill, it is required to use it to go through the final steps of that dungeon. This progression culminates with the Boss fight, where that new skill is **absolutely key** in order to defeat the Boss. 
 
 ![](https://i.imgur.com/pIpApxb.png)
 
