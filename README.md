@@ -29,8 +29,7 @@ Ideally, players should use all the things that they have learned previously to 
 
 **For example:** In "The Legend of Zelda", players obtain new skills in almost every new dungeon they visit. Since the very first moment they obtain that new skill, it is required to use it to go through the final steps of that dungeon. This progression culminates with the Boss fight, where that new skill is **absolutely key** in order to defeat the Boss. 
 
-![](https://i.imgur.com/pIpApxb.png)
-
+![](https://i.imgur.com/pIpApxb.png)   
 _In the first dungeon, the player finds the Fairy Slingshot, the first new mechanic introduced in the game_
 
 ![](https://i.imgur.com/Mm08CmJ.png)
@@ -61,8 +60,7 @@ Here's a list of possible reasons you may base your Boss designs on:
    
    - **Emotional:** Can be used for both Secondary or Main Bosses. Players have some kind of personal link with the Boss that pushes them towards fighting it. A really good and clear example of these kind of Boss is **Red**, from Pokemon Silver/Gold/Crystal.
    
-   ![](https://i.imgur.com/wtOUZuT.png)
-   
+   ![](https://i.imgur.com/wtOUZuT.png)   
    _For the player, to face Red does not only mean to defeat the strongest character in the whole game, but to overcome themselves, as they are basically facing their avatar in the previous game. This link has turned this optional fight into something almost mandatory to any Pokemon fan. (Image from "Pokemon Gold/Silver/Crystal, Nintendo (1999-2001))_
 
 ## Designing a Boss
@@ -72,23 +70,20 @@ Although there's nothing like a magic formula to create easily the perfect Boss,
 ### Purpose
 The first thing to have in mind when designing a Boss, is its _purpose_. This is probably one of the most important steps in the design process as we are basically creating the "pillars" on which the entire Boss Fight will be based. This process is divided in 3 steps. To illustrate them better, let's go one by one following an example from **"Hollow Knight" (Team Cherry, 2017)**.
 
-1.**List of the skill to test:** Bosses are like tests for players, so the first thing to think about is _what_ is going to be tested with this boss. 
+1. **List of the skill to test:** Bosses are like tests for players, so the first thing to think about is _what_ is going to be tested with this boss. 
 
-![](https://i.imgur.com/iLNXFwb.png)
-
+![](https://i.imgur.com/iLNXFwb.png)   
 _Let's say for example we want to test the jump mechanic of the main character._
 
 2. **List of attacks or challenges that will test that skill:** Now we have decided _what_ to test, we have to think _how_ to actually test it. In this step, it is recommended to think of those challenges independently to avoid limiting our ideas on the actual design of the boss. 
 
 ![](https://i.imgur.com/YZWH6vY.png)
-![](https://i.imgur.com/4ctdGM3.png)
-
+![](https://i.imgur.com/4ctdGM3.png)   
 _One of the False Knight's attacks is a heavy smash which sends out shockwaves. The player has to jump over them to avoid damage._
 
 3. **Adapt to the theme of the boss:** Now we have our designed attack, we have to adapt it to the actual aesthetic of the boss. 
 
-![](https://i.imgur.com/SFOjytF.png)
-
+![](https://i.imgur.com/SFOjytF.png)   
 _How could a heavy smash to the ground be done? Why not trying with a giant mace?_
 
 ### Preparation
