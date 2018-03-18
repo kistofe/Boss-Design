@@ -1,5 +1,5 @@
 ## About the author
-I am CRISTIAN PALOS, student of the [Bachelor's Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer
+I am [CRISTIAN PALOS](https://www.linkedin.com/in/cristian-palos-lasala-5578a315b/), student of the [Bachelor's Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer
 [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).
 
 ## Introduction: The problem with Boss Design
@@ -171,7 +171,9 @@ These elements are small hints that reveal to the player that they will face a B
 ### The Fight
 ### Combat Stage
 ### Post-Battle: Rewarding the player
-Fighting the final Boss is the 
+Fighting the final Boss is the climax of the game. All his entire journey has taken place only for this moment.
+
+The Hero has finally succeeded on his purpose and his journey is prepared to end. 
 
 ## Webgraphy
 
