@@ -170,10 +170,20 @@ These elements are small hints that reveal to the player that they will face a B
 
 ### The Fight
 ### Combat Stage
-### Post-Battle: Rewarding the player
-Fighting the final Boss is the climax of the game. All his entire journey has taken place only for this moment.
+The combat stage is not only the physical place where the battle takes place, but also another element players can interact with. Traditionally, Bosses have been placed in large areas for two main reasons:
+   - As in the [visual design](https://github.com/kistofe/Boss-Design/tree/gh-pages#visual-design), it transmits to the player the feeling that they are facing something bigger than them, something special. 
+   - It allows many different gameplay mechanics, which enriches the variety of the combat. An example of this gameplay mechanics could be to interact with specific elements in order to damage or weaken the Boss. 
+   
+   ![](https://media.giphy.com/media/9DauFdeCSHZQ6ndZKs/giphy.gif)   
+   _The fight agains Ceadeus in Monster Hunter Tri is in an ancient temple under water. There, the player can attack the monster with some powerful weapons located over the stage. (Monster Hunter Tri, Capcom (2009))_
+   
 
-The Hero has finally succeeded on his purpose and his journey is prepared to end. 
+### Post-Battle: Rewarding the player
+Fighting the final Boss is the climax of the game, all the entire journey has taken place only for this moment. 
+
+Defeating the Final Boss is a key moment in the gaming experience and players should feel like they really have achieved something out of normal. Specially with Final Bosses, players should see the result of all their effort in someway, so finishing the battle and seeing nothing more than a short cutscene would ruin all the greatness of the moment. 
+
+Players want to know how their actions affected the world. What happened to the main characters? Is everything better know? Has nothing changed after the journey?
 
 ## Webgraphy
 
