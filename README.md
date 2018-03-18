@@ -164,9 +164,14 @@ It is important to keep in mind what your game rules are when designing a Boss, 
 
 ## Boss Fight
 ### The "Pre-Boss" area
+In order to build up before a Boss battle, designers often create a "Pre-Boss" area where the player could basically recover and prepare for what would come next. The player could "feel" when they would have to face a Boss because of certain elements of level design, like save points just before entering a new area, conveniently placed Health recoveries or Weapons or arriving to a suspiciously large, empty room. 
+
+These elements are small hints that reveal to the player that they will face a Boss in the next area. This preparation is a rewarding element for the player, as it prepares them for the fight and builds up their expectations. 
+
 ### The Fight
 ### Combat Stage
 ### Post-Battle: Rewarding the player
+Fighting the final Boss is the 
 
 ## Webgraphy
 
