@@ -201,7 +201,7 @@ Defeating the Final Boss is a key moment in the gaming experience and players sh
 Players want to know how their actions affected the world. What happened to the main characters? Is everything better know? Has nothing changed after the journey?
 
 ![](https://i.imgur.com/keIxKFm.png)   
-_Right after defeating Demise, we can see this scene where Link, Zelda and himself are cursed to reborn and fight again and again, starting the eternal fight found in any game of the saga. (The Legend of Zelda: Skyward Sword, Nintendo (2011))_
+_Right after defeating Demise, we can see this scene where Link, Zelda and himself are cursed to reborn and fight again and again, starting the eternal fight that distinguishes. (The Legend of Zelda: Skyward Sword, Nintendo (2011))_
 
 ## Webgraphy
 
