@@ -47,6 +47,9 @@ Here's a list of possible reasons you may base your Boss designs on:
 
    - **Loot:** Generally used in Secondary Bosses. As simple as "you defeat that big boss, you get this powerful weapon". Genres like MMOs are highly centered on this kind of Boss design.  
    - **High Difficulty:** May not be liked by everyone, but an exceptional difficulty can be the only reason to fight a Secondary Boss, or can be an extra reason to prepare to fight a Main Boss. 
+   ![](https://i.imgur.com/e29BZff.png)
+   _Dark Souls is well-known for the difficulty of its Bosses, which has attracted more players to the game (Ornstein and Smough - Dark Souls, From Software(2011))_
+   
    - **Unlocking next areas:** 
    - **Plot-evolvers:** Exclusive for Main Bosses. As its name states, defeating these kind of Bosses makes the plot advance. 
    - **Emotional:** Can be used for both Secondary or Main Bosses. Players have some kind of personal link with the Boss that pushes them towards fighting it. A really good and clear example of these kind of Bosses is **Red**, from Pokemon Silver/Gold/Crystal.
@@ -107,18 +110,19 @@ Bosses should stand out from any other kind of enemy on the map. They have to be
 ### General mistakes when designing a boss
 
 **More HP, more difficulty**  
-One of the most extended mistakes when designing bosses is to think that increasing the amount of HP they have will instantly increase its difficulty. In some way, it does, but what we are doing here is creating **artificial difficulty**, which does not improve the gaming experience of the player in any sense. Combats with this kind of bosses tend to result tedious and repetitive to the player, which is something designers should avoid. 
+One of the most extended mistakes when designing bosses is to think that increasing the amount of HP they have will instantly increase its difficulty. In some way, it does, but what we are doing here is creating **artificial difficulty**, which does not improve the gaming experience of the player in any sense.
 
-
-
-
-
+Combats with this kind of bosses tend to result tedious and repetitive to the player, which is something designers should avoid. 
 
 
 **Strange gimmmicks not explained to the player**  
 A classic mistake among unexperienced designers is to think that anything goes when talking about originality. When designing, in this case, a Boss, we all try to be different from the rest and try to come up with a great idea to blow up the players mind. This is a dangerous moment, because it is easy to jump from a good, original idea, into something completely the opposite. 
 
 Introducing strange gimmicks during Boss battles without giving any hint to the player to overcome them, is not a good design flow. Players need to feel they are in control of the situation or, at least, that they have the tools to respond to unexpected moments. 
+
+**Randomness**   
+Randomness can be a powerful tool, but also can be a dangerous one. It is used in party games to reduce the skill gap between players, as party games aim for the spontaneous fun and not for the correct skill development of the players. 
+
 
 ## Boss Fight
 ### The "Pre-Boss" area
