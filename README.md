@@ -127,7 +127,7 @@ _This sure does not look like a regular enemy, does it? (Shadow of the Colossus,
 ### General mistakes when designing a boss
 
 **More HP, more difficulty**  
-One of the most extended mistakes when designing bosses is to think that increasing the amount of HP they have will instantly increase its difficulty. In some way, it does, but what we are doing here is creating **artificial difficulty**, which does not improve the gaming experience of the player in any sense.
+One of the most extended mistakes when designing Bosses is to think that increasing the amount of HP they have, will instantly increase its difficulty. In some way, it does, but what we are doing here is creating **artificial difficulty**, which does not improve the gaming experience of the player in any sense.
 
 Combats with this kind of bosses tend to result tedious and repetitive to the player, which is something designers should avoid. 
 
