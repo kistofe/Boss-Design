@@ -56,7 +56,7 @@ Here's a list of possible reasons you may base your Boss designs on:
 _For the player, to face Red does not only mean to defeat the strongest character in the whole game, but to overcome themselves, as they are basically facing their avatar in the previous game. This link has turned this optional fight into something almost mandatory to any Pokemon fan. (Image from "Pokemon Gold/Silver/Crystal, Nintendo (1999-2001))_
 
 ## Designing a Boss
-Although there's nothing like a magic formula to create easily the perfect Boss, there exists some aspects that well merged can put you in a good spot in this difficult task. 
+Although there's nothing like a magic formula to create easily the perfect Boss, there exists some aspects that well merged can put you in a good spot to accomplish this difficult task. 
 
 
 ### Purpose
