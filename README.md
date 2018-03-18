@@ -98,7 +98,7 @@ _Anyone who has ever played Final Fantasy can recognize [Sephiroth's theme](http
 
 However, having a great battle music is not enough if it is not appropriate to the theme of the boss or the game. The theme has to **fit** with the scene, or it will only give the sensation that the music is there because someone in the team liked it. 
 
-The same applies with Sound effects. Having a big, heavy-looking Boss accompanied with not heavy-sounding sound effects may be confusing to the player. Be coherent with this!
+The same applies with Sound effects. Having a big, heavy-looking Boss accompanied with non heavy-sounding sound effects may be confusing to the player. Be coherent with this!
 
 
 ### Visual Design
