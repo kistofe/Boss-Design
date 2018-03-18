@@ -188,7 +188,7 @@ _Onryoki's stage is considerably small taking into account its attack range. (Ni
 
 However, small stages can be a double-edged blade if there's no meaning on reducing it. If reducing the size of the stage creates the feeling in the player that the fight is "unfair" or "not well-thought", then you probably should think twice before doing it. 
 
-![](https://i.imgur.com/Wjw9bmI.png)   
+![](https://media.giphy.com/media/mnqVtGVPCa6Qfzvmb5/giphy.gif)   
 _The Capra Demon's stage is a well example of a bad execution of small stages. It is easy for the enemies to hit you just by entering and the entire fight is reduced to "exploit" the stairs. (Dark Souls, From Software (2009))_
 
 
