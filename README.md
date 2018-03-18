@@ -180,7 +180,17 @@ The combat stage is not only the physical place where the battle takes place, bu
    
    ![](https://media.giphy.com/media/9DauFdeCSHZQ6ndZKs/giphy.gif)   
    _The fight agains Ceadeus in Monster Hunter Tri is in an ancient temple under water. There, the player can attack the monster with some powerful weapons located over the stage. (Monster Hunter Tri, Capcom (2009))_
-   
+
+Some games have given a twist to that traditional choice and have opted for smaller stages. Why? Because playing with space is a powerful tool to make boss fights interesting. Bosses like Onryoki, from Nioh, can almost reach every point in the stage with one of his attacks. The way to actually beat him, is to make precise and timed usage of the rolling mechanic. 
+
+![](https://i.imgur.com/uhOJY9Z.png)   
+_Onryoki's stage is considerably small. (Nioh, Team Ninja (2017)_
+
+However, small stages can be a double-edged blade if there's no meaning on reducing it. If reducing the size of the stage creates the feeling in the player that the fight is "unfair" or "not well-thought", then you probably should think twice before doing it. 
+
+![](https://i.imgur.com/Wjw9bmI.png)
+_The Capra Demon's stage is a well example of a bad execution of small stages. It is easy for the enemies to hit you just by entering and the entire fight is reduced to "exploit" the stairs. (Dark Souls, From Software (2009))_
+
 
 ### Post-Battle: Rewarding the player
 Fighting the final Boss is the climax of the game, all the entire journey has taken place only for this moment. 
@@ -190,7 +200,7 @@ Defeating the Final Boss is a key moment in the gaming experience and players sh
 Players want to know how their actions affected the world. What happened to the main characters? Is everything better know? Has nothing changed after the journey?
 
 ![](https://i.imgur.com/keIxKFm.png)   
-_Right after defeating Demise, we can see this scene where Link, Zelda and himself are cursed to reborn and fight again and again, starting the eternal fight found in any game of the saga. ("The Legend of Zelda: Skyward Sword", Nintendo (2011))_
+_Right after defeating Demise, we can see this scene where Link, Zelda and himself are cursed to reborn and fight again and again, starting the eternal fight found in any game of the saga. (The Legend of Zelda: Skyward Sword, Nintendo (2011))_
 
 ## Webgraphy
 
