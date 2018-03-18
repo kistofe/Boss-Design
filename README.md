@@ -96,7 +96,7 @@ Music is a powerful tool to create feelings in the player. A good battle theme i
 
 _Anyone who has ever played Final Fantasy can recognize [Sephiroth's theme](https://www.youtube.com/watch?v=t7wJ8pE2qKU) just by listening a few seconds from it. Same applies with [San's theme](https://www.youtube.com/watch?v=ZcoqR9Bwx1Y), from 2015's Undertale._
 
-However, having a great battle theme is not enough if it is not appropriate to the aesthetics of the boss or the game. The theme has to **fit** with the scene, or it will only give the sensation that the music is there because someone in the team liked it. 
+However, having a great battle music is not enough if it is not appropriate to the theme of the boss or the game. The theme has to **fit** with the scene, or it will only give the sensation that the music is there because someone in the team liked it. 
 
 The same applies with Sound effects. Having a big, heavy-looking Boss accompanied with not heavy-sounding sound effects may be confusing to the player. Be coherent with this!
 
