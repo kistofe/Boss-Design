@@ -114,7 +114,7 @@ Music and Sound may sometimes go unnoticed by the player during the Boss Fight. 
 
 Music is a powerful tool to create feelings in the player. A good battle theme is the one that flows with the battle, the one that increases its pace when the battle does too, and decreases it when the battle slows down. Having a good design accompanied by a lack of music or a repetitive, generic one, can ruin all your efforts and turn, what should have been a good battle, into something dull. 
 
->_Anyone who has ever played Final Fantasy can recognize [Sephiroth's theme](https://www.youtube.com/watch?v=t7wJ8pE2qKU) just by listening a few seconds from it. Same applies with [San's theme](https://www.youtube.com/watch?v=ZcoqR9Bwx1Y), from 2015's Undertale._
+_Anyone who has ever played Final Fantasy can recognize [Sephiroth's theme](https://www.youtube.com/watch?v=t7wJ8pE2qKU) just by listening a few seconds from it. Same applies with [San's theme](https://www.youtube.com/watch?v=ZcoqR9Bwx1Y), from 2015's Undertale._
 
 However, having a great battle music is not enough if it is not appropriate to the theme of the boss or the game. The theme has to **fit** with the scene, or it will only give the sensation that the music is there because someone in the team liked it. 
 
