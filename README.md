@@ -19,7 +19,7 @@ The Final Boss of a videogame is also a kind of Main Boss. It differs from the r
 ### Design differences between them
 ## What do boss battles mean for players?
 ### Feeling of Mastery
-Boss fights have a unique feeling among all battles in videogame. They are distinct to normal battles in the sense that they do not aim to serve as learning tools or to test if the player can use new skills, they serve as challenges to test whether the player has mastered the previously learned skills in the game.
+Boss fights have a unique feeling among all battles in videogame. They are distinct to normal battles in the sense that they do not aim to serve as learning tools or to test if the player can use new skills, they serve as challenges to test whether the player has mastered the previously learned skills in the game or not.
 
 Ideally, players should use all the things that they have learned previously to the boss during the battle and, when defeating it, they should feel like the really do master those skills.
 
