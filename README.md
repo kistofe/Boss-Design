@@ -29,15 +29,15 @@ Ideally, players should use all the things that they have learned previously to 
 
 ![](https://i.imgur.com/pIpApxb.png)
 
->_In the first dungeon, the player finds the Fairy Slingshot, the first new mechanic introduced in the game_
+_In the first dungeon, the player finds the Fairy Slingshot, the first new mechanic introduced in the game_
 
 ![](https://i.imgur.com/Mm08CmJ.png)
->_During the the Boss Fight, the player has to shoot it down from the ceiling by using the Slingshot_
+_During the the Boss Fight, the player has to shoot it down from the ceiling by using the Slingshot_
 
 ![](https://i.imgur.com/R5hDcNe.png)
->_Once the Boss is on the floor, the player can attack it directly_
+_Once the Boss is on the floor, the player can attack it directly_
 
->_(All images above pertain to "The Legend of Zelda: Ocarina of Time", Nintendo (1998))_
+_(All images above pertain to "The Legend of Zelda: Ocarina of Time", Nintendo (1998))_
 
 
 ### Reasons
@@ -50,7 +50,7 @@ Here's a list of possible reasons you may base your Boss designs on:
    - **Loot:** Generally used in Secondary Bosses. As simple as "you defeat that big boss, you get this powerful weapon". Genres like MMOs are highly centered on this kind of Boss design.  
    - **High Difficulty:** May not be liked by everyone, but an exceptional difficulty can be the only reason to fight a Secondary Boss, or can be an extra reason to prepare to fight a Main Boss. 
    ![](https://i.imgur.com/e29BZff.png)   
-  > _Dark Souls is well-known for the difficulty of its Bosses, which has attracted more players to the game (Ornstein and Smough - Dark Souls, From Software(2011))_
+   _Dark Souls is well-known for the difficulty of its Bosses, which has attracted more players to the game (Ornstein and Smough - Dark Souls, From Software(2011))_
    
    - **Unlocking next areas:** Which can be extra areas (in this case we are generally talking about Secondary Bosses) or areas according to the plot of the game (in this case, Main Bosses). 
    
@@ -61,7 +61,7 @@ Here's a list of possible reasons you may base your Boss designs on:
    
 ![](https://i.imgur.com/wtOUZuT.png)
    
->_For the player, to face Red does not only mean to defeat the strongest character in the whole game, but to overcome themselves, as they are basically facing their avatar in the previous game. This link has turned this optional fight into something almost mandatory to any Pokemon fan. (Image from "Pokemon Gold/Silver/Crystal, Nintendo (1999-2001))_
+_For the player, to face Red does not only mean to defeat the strongest character in the whole game, but to overcome themselves, as they are basically facing their avatar in the previous game. This link has turned this optional fight into something almost mandatory to any Pokemon fan. (Image from "Pokemon Gold/Silver/Crystal, Nintendo (1999-2001))_
 
 ## Designing a Boss
 Although there's nothing like a magic formula to create easily the perfect Boss, there exists some aspects that well merged can put you in a good spot to accomplish this difficult task. 
@@ -74,7 +74,7 @@ The first thing to have in mind when designing a Boss, is its _purpose_. This is
 
 ![](https://i.imgur.com/iLNXFwb.png)
 
->_Let's say for example we want to test the jump mechanic of the main character._
+_Let's say for example we want to test the jump mechanic of the main character._
 
 
 2. **List of attacks or challenges that will test that skill:** Now we have decided _what_ to test, we have to think _how_ to actually test it. In this step, it is recommended to think of those challenges independently to avoid limiting our ideas on the actual design of the boss. 
@@ -82,14 +82,14 @@ The first thing to have in mind when designing a Boss, is its _purpose_. This is
 ![](https://i.imgur.com/YZWH6vY.png)
 ![](https://i.imgur.com/4ctdGM3.png)
 
->_One of the False Knight's attacks is a heavy smash which sends out shockwaves. The player has to jump over them to avoid damage._
+_One of the False Knight's attacks is a heavy smash which sends out shockwaves. The player has to jump over them to avoid damage._
 
 
 3. **Adapt to the theme of the boss:** Now we have our designed attack, we have to adapt it to the actual aesthetic of the boss. 
 
 ![](https://i.imgur.com/SFOjytF.png)
 
->_How could a heavy smash to the ground be done? Why not trying with a giant mace?_
+_How could a heavy smash to the ground be done? Why not trying with a giant mace?_
 
 ### Preparation
 As mentioned when talking about the Feeling of Mastery section, Bosses are like tests to the player to ensure they master a certain degree of skill. Knowing that, a Boss Fight should not be the moment to introduce new abilities or mechanics to players, as they would need to adapt to them during the fight itself. 
@@ -103,7 +103,7 @@ Many designers, when creating their Bosses, ask themselves "How do I make my Bos
    - It should stay true to the gameplay difficulty; it has no sense to introduce an extremely difficult boss in a suitable for all audiences game. 
    
    ![](https://i.imgur.com/DJeDfhe.png) ![](https://i.imgur.com/RBQgZd7.png)   
-   >_The kind of Bosses in Super Mario Bros would feel out of place in a game like Super Meat Boy, known for its high difficulty. (New Super Mario Bros (left), Nintendo (2006)/ Super Meat Boy (right), Team Meat (2008))_
+   _The kind of Bosses in Super Mario Bros would feel out of place in a game like Super Meat Boy, known for its high difficulty. (New Super Mario Bros (left), Nintendo (2006)/ Super Meat Boy (right), Team Meat (2008))_
    
    - Althought it is not strictly mandatory, Main Bosses should increase, in terms of difficulty, throughout the game. In order to avoid making the player feel overwhelmed by a constantly increasing difficulty, Secondary and Mini Bosses can escape from this small rule and act as "rest" moments. 
    - Difficulty is not only reduced to increasing stats. Optimal difficulty comes from constant challenges. 
@@ -127,7 +127,7 @@ Bosses should stand out from any other kind of enemy on the map. They have to be
 Usually, what most designers tend to do is to make Bosses considerably bigger than regular enemies. This way, the player can distinguish it perfectly, and it also creates another interesting effect; the sense of facing something more powerful than you, something always present in the Hero's Tale. 
 
 ![](https://i.imgur.com/izx6xu9.jpg)   
->_This sure does not look like a regular enemy, does it? (Shadow of the Colossus, Team ICO (2005))_
+_This sure does not look like a regular enemy, does it? (Shadow of the Colossus, Team ICO (2005))_
 
 ### General mistakes when designing a boss
 
@@ -143,7 +143,7 @@ A classic mistake among unexperienced designers is to think that anything goes w
 Introducing strange gimmicks during Boss battles without giving any hint to the player to overcome them, is not a good design flow. Players need to feel they are in control of the situation or, at least, that they have the tools to respond to unexpected moments. 
 
 ![](https://i.imgur.com/ODcsmJD.png)   
->_Ruby Weapon, in Final Fantasy VII, is completely immune to damage unless you enter its battle with two of your team members dead. This, of course, is not even explained to the player inside the game. (Final Fantasy VII, Squaresoft (1999))_
+_Ruby Weapon, in Final Fantasy VII, is completely immune to damage unless you enter its battle with two of your team members dead. This, of course, is not even explained to the player inside the game. (Final Fantasy VII, Squaresoft (1999))_
 
 **Randomness**   
 Randomness can be a powerful tool, but also a dangerous one. It is used in party games to reduce the skill gap between players, as party games aim for the spontaneous fun and not for the correct skill development of the players. 
@@ -156,14 +156,14 @@ When fighting a Boss, players should feel like they can always win if they make 
 Breaking the Game rules means to do the opposite the player has been taught during the whole game. Let's directly jump to an example: Marie, the final Boss of the History Mode of **Skullgirls (Reverge Labs, 2012).**
 
 ![](https://i.imgur.com/1h2ue0T.jpg)   
->_Marie, from Skullgirls._
+_Marie, from Skullgirls._
 
 All the previous fights to her, are regular fighting-game fights, where you learn the basics of the combat system. However, against her, none of that works; she can't be stunned, grabbed (not even by Blockbuster moves) or launched. Besides, She attacks from so many different ways at the same time, making it difficult to avoid, specially because some of those attacks require fast movement reaction, which not all the characters have. 
 
 As Marie is basically static in the screen, the player can not predict her next move. All these elements, removed the strategy component  of the fight and turned it into a Heavy-attack-spam. 
 
 ![](https://media.giphy.com/media/fMAu3hziHO1xTkSqPJ/giphy.gif)   
->_Marie is not affected by hitstun and can throw atacks from so many different directions, making it almost impossible for the player to predict her._
+_Marie is not affected by hitstun and can throw atacks from so many different directions, making it almost impossible for the player to predict her._
 
 It is important to keep in mind what your game rules are when designing a Boss, and to be faithful to them.  
 
@@ -180,7 +180,7 @@ The combat stage is not only the physical place where the battle takes place, bu
    - It allows many different gameplay mechanics, which enriches the variety of the combat. An example of this gameplay mechanics could be to interact with specific elements in order to damage or weaken the Boss. 
    
    ![](https://media.giphy.com/media/9DauFdeCSHZQ6ndZKs/giphy.gif)   
-   >_The fight agains Ceadeus in Monster Hunter Tri is in an ancient temple under water. There, the player can attack the monster with some powerful weapons located over the stage. (Monster Hunter Tri, Capcom (2009))_
+   _The fight agains Ceadeus in Monster Hunter Tri is in an ancient temple under water. There, the player can attack the monster with some powerful weapons located over the stage. (Monster Hunter Tri, Capcom (2009))_
    
 
 ### Post-Battle: Rewarding the player
