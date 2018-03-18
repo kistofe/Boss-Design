@@ -87,7 +87,7 @@ _One of the False Knight's attacks is a heavy smash which sends out shockwaves. 
 _How could a heavy smash to the ground be done? Why not trying with a giant mace?_
 
 ### Preparation
-As mentioned when talking about the [Feeling of Mastery](https://kistofe.github.io/Boss-Design/feeling-of-mastery), Bosses are like tests to the player to ensure they master a certain degree of skill. Knowing that, a Boss Fight should not be the moment to introduce new abilities or mechanics to players, as they would need to adapt to them during the fight itself. 
+As mentioned when talking about the Feeling of Mastery section, Bosses are like tests to the player to ensure they master a certain degree of skill. Knowing that, a Boss Fight should not be the moment to introduce new abilities or mechanics to players, as they would need to adapt to them during the fight itself. 
 
 Instead, it is better to introduce those new abilities or mechanics during combats with regular enemies, as they are (generally) less punishing than boss fights.
 
@@ -171,7 +171,7 @@ These elements are small hints that reveal to the player that they will face a B
 ### The Fight
 ### Combat Stage
 The combat stage is not only the physical place where the battle takes place, but also another element players can interact with. Traditionally, Bosses have been placed in large areas for two main reasons:
-   - As in the [visual design](https://github.com/kistofe/Boss-Design/tree/gh-pages#visual-design), it transmits to the player the feeling that they are facing something bigger than them, something special. 
+   - As in the visual design, it transmits to the player the feeling that they are facing something bigger than them, something special. 
    - It allows many different gameplay mechanics, which enriches the variety of the combat. An example of this gameplay mechanics could be to interact with specific elements in order to damage or weaken the Boss. 
    
    ![](https://media.giphy.com/media/9DauFdeCSHZQ6ndZKs/giphy.gif)   
