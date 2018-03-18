@@ -175,7 +175,7 @@ In order to build up before a Boss battle, designers often create a "Pre-Boss" a
 These elements are small hints that reveal to the player that they will face a Boss in the next area. This preparation is a rewarding element for the player, as it prepares them for the fight and builds up their expectations. 
 
 ### The Fight
-### Combat Stage
+### The Combat Stage
 The combat stage is not only the physical place where the battle takes place, but also another element players can interact with. Traditionally, Bosses have been placed in large areas for two main reasons:
    - As in the visual design, it transmits to the player the feeling that they are facing something bigger than them, something special. 
    - It allows many different gameplay mechanics, which enriches the variety of the combat. An example of this gameplay mechanics could be to interact with specific elements in order to damage or weaken the Boss. 
@@ -192,7 +192,6 @@ However, small stages can be a double-edged blade if there's no meaning on reduc
 
 ![](https://media.giphy.com/media/mnqVtGVPCa6Qfzvmb5/giphy.gif)   
 _The Capra Demon's stage is a well example of a bad execution of small stages. It is easy for the enemies to hit you just by entering and the entire fight is reduced to "exploit" the stairs. (Dark Souls, From Software (2009))_
-
 
 ### Post-Battle: Rewarding the player
 Fighting the final Boss is the climax of the game, all the entire journey has taken place only for this moment. 
