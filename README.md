@@ -106,7 +106,7 @@ Many designers, when creating their Bosses, ask themselves "How do I make my Bos
    - It should **stay faithful to the gameplay difficulty**; it has no sense to introduce an extremely difficult boss in a suitable for all audiences game. 
    
    ![](https://i.imgur.com/DJeDfhe.png) ![](https://i.imgur.com/RBQgZd7.png)   
-   _The kind of Bosses in Super Mario Bros would feel out of place in a game like Super Meat Boy, known for its high difficulty. (New Super Mario Bros (left), Nintendo (2006)/ Super Meat Boy (right), Team Meat (2008))_
+   _The kind of Bosses in Super Mario Bros would feel out of place in a game like Super Meat Boy, known for its high difficulty. (New Super Mario Bros, Nintendo (2006)/ Super Meat Boy, Team Meat (2008))_
    
    - Althought it is not strictly mandatory, Main Bosses should increase, in terms of difficulty, throughout the game. In order to avoid making the player feel overwhelmed by a constantly increasing difficulty, Secondary and Mini Bosses can escape from this small rule and act as "rest" moments. 
    - Difficulty is not only reduced to increasing stats. Optimal difficulty comes from constant challenges. 
