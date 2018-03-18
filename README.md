@@ -119,7 +119,7 @@ The same applies with Sound effects. Having a big, heavy-looking Boss accompanie
 ### Visual Design
 Bosses should stand out from any other kind of enemy on the map. They have to be easily recognizable by the player, as they will focus their attention on them.
 
-Usually, what most designers tend to do is to make Bosses considerably bigger than regular enemies. This way, the player can distinguish it perfectly, and it also creates another interesting effetc; the sense of facing something more powerful than you, something always present the Hero's Tale. 
+Usually, what most designers tend to do is to make Bosses considerably bigger than regular enemies. This way, the player can distinguish it perfectly, and it also creates another interesting effect; the sense of facing something more powerful than you, something always present the Hero's Tale. 
 
 ![](https://i.imgur.com/izx6xu9.jpg)   
 _This sure does not look like a regular enemy, does it? (Shadow of the Colossus, Team ICO (2005))_
