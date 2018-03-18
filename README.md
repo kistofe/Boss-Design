@@ -106,14 +106,11 @@ Bosses should stand out from any other kind of enemy on the map. They have to be
 
 ### General mistakes when designing a boss
 
-**More HP, more difficulty**
-
+**More HP, more difficulty**   
 One of the most extended mistakes when designing bosses is to think that increasing the amount of HP they have will instantly increase its difficulty. In some way, it does, but what we are doing here is creating **artificial difficulty**, which does not improve the gaming experience of the player in any sense. Combats with this kind of bosses tend to result tedious and repetitive to the player, which is something designers should avoid. 
 
 
-
-**Strange gimmmicks not explained to the player**
-
+**Strange gimmmicks not explained to the player**   
 A classic mistake among unexperienced designers is to think that anything goes when talking about originality. When designing, in this case, a Boss, we all try to be different from the rest and try to come up with a great idea to blow up the players mind. This is a dangerous moment, because it is easy to jump from a good, original idea, into something completely the opposite. 
 
 Introducing strange gimmicks during Boss battles without giving any hint to the player to overcome them, is not a good design flow. Players need to feel they are in control of the situation or, at least, that they have the tools to respond to unexpected moments. 
