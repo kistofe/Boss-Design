@@ -133,7 +133,7 @@ When fighting a Boss, players should feel like they can always win a Boss if the
 **Breaking the Game rules**   
 Breaking the Game rules means to do the opposite the player has been taught during the whole game. Let's directly jump to an example: Marie, the final Boss of the History Mode of **Skullgirls (Reverge Labs, 2012).**
 
-![](https://i.imgur.com/1h2ue0T.jpg)
+![](https://i.imgur.com/1h2ue0T.jpg)   
 _Marie, from Skullgirls._
 
 All the previous fights to her, are regular fighting-game fights, where you learn the basics of the combat system. However, she can't be stunned, grabbed (not even by Blockbuster moves) or launched. Besides, She attacks from so many different ways at the same time, making it difficult to avoid, specially because some of those attacks require fast movement reaction, which not all the characters have. 
