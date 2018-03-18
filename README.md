@@ -99,7 +99,10 @@ Instead, it is better to introduce those new abilities or mechanics during comba
 ### Difficulty
 Many designers, when creating their Bosses, ask themselves "How do I make my Boss challenging without overpowering it?". Well, to create a good difficulty curve for a Boss is not an easy task, but there are some things to take into account:
 
-   - It should adjust to the player's current state of development in the game, in a natural way. It means that Bosses at first stages of the game should only challenge the basic mechanics of it, as it's all the player will have learned up to that moment. Bosses near middle stages should test the comprehension and usage of all learned abilities since that moment. Finally, Bosses near the final stages should not only test that, but also the optimal usage and the ability of the player to overcome the challenges presented during the fight by using those mastered skills. 
+   - It should adjust to the player's current state of development in the game, in a natural way. It means that:
+      - Bosses at first stages of the game should only challenge the basic mechanics of it, as it's all the player will have learned up to that moment. 
+      - Bosses near middle stages should test the comprehension and usage of all learned abilities since that moment. 
+      - Finally, Bosses near the final stages should not only test that, but also the optimal usage and the ability of the player to overcome the challenges presented during the fight by using those mastered skills. 
    - It should stay true to the gameplay difficulty; it has no sense to introduce an extremely difficult boss in a suitable for all audiences game. 
    
    ![](https://i.imgur.com/DJeDfhe.png) ![](https://i.imgur.com/RBQgZd7.png)   
