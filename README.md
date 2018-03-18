@@ -157,7 +157,7 @@ All the previous fights to her, are regular fighting-game fights, where you lear
 
 As Marie is basically static in the screen, the player can not predict her next move. All these elements, removed the strategy component  of the fight and turned it into a Heavy-attack-spam. 
 
-![](https://i.imgur.com/utCnBYr.mp4)   
+![](https://imgur.com/utCnBYr)   
 _Marie is not affected by hitstun and can throw atacks from so many different directions, making it almost impossible for the player to predict her._
 
 It is important to keep in mind what your game rules are when designing a Boss, and to be faithful to them.  
