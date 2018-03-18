@@ -120,6 +120,10 @@ A classic mistake among unexperienced designers is to think that anything goes w
 
 Introducing strange gimmicks during Boss battles without giving any hint to the player to overcome them, is not a good design flow. Players need to feel they are in control of the situation or, at least, that they have the tools to respond to unexpected moments. 
 
+![](https://i.imgur.com/Iyv9yA6.jpg)
+_Even though Psycho Mantis has become one of the most iconic Bosses of all time, its combat gimmick is a clear example of what explained above._
+
+
 **Randomness**   
 Randomness can be a powerful tool, but also can be a dangerous one. It is used in party games to reduce the skill gap between players, as party games aim for the spontaneous fun and not for the correct skill development of the players. 
 
