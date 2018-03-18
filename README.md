@@ -72,26 +72,24 @@ Although there's nothing like a magic formula to create easily the perfect Boss,
 ### Purpose
 The first thing to have in mind when designing a Boss, is its _purpose_. This is probably one of the most important steps in the design process as we are basically creating the "pillars" on which the entire Boss Fight will be based. This process is divided in 3 steps. To illustrate them better, let's go one by one following an example from **"Hollow Knight" (Team Cherry, 2017)**.
 
-   1. **List of the skill to test:** Bosses are like tests for players, so the first thing to think about is _what_ is going to be tested with this boss. 
+1. **List of the skill to test:** Bosses are like tests for players, so the first thing to think about is _what_ is going to be tested with this boss. 
 
-   ![](https://i.imgur.com/iLNXFwb.png)
+![](https://i.imgur.com/iLNXFwb.png)
 
-   _Let's say for example we want to test the jump mechanic of the main character._
+_Let's say for example we want to test the jump mechanic of the main character._
 
+2. **List of attacks or challenges that will test that skill:** Now we have decided _what_ to test, we have to think _how_ to actually test it. In this step, it is recommended to think of those challenges independently to avoid limiting our ideas on the actual design of the boss. 
 
-   2. **List of attacks or challenges that will test that skill:** Now we have decided _what_ to test, we have to think _how_ to actually test it. In this step, it is recommended to think of those challenges independently to avoid limiting our ideas on the actual design of the boss. 
+![](https://i.imgur.com/YZWH6vY.png)
+![](https://i.imgur.com/4ctdGM3.png)
 
-   ![](https://i.imgur.com/YZWH6vY.png)
-   ![](https://i.imgur.com/4ctdGM3.png)
+_One of the False Knight's attacks is a heavy smash which sends out shockwaves. The player has to jump over them to avoid damage._
 
-   _One of the False Knight's attacks is a heavy smash which sends out shockwaves. The player has to jump over them to avoid damage._
+3. **Adapt to the theme of the boss:** Now we have our designed attack, we have to adapt it to the actual aesthetic of the boss. 
 
+![](https://i.imgur.com/SFOjytF.png)
 
-   3. **Adapt to the theme of the boss:** Now we have our designed attack, we have to adapt it to the actual aesthetic of the boss. 
-
-   ![](https://i.imgur.com/SFOjytF.png)
-
-   _How could a heavy smash to the ground be done? Why not trying with a giant mace?_
+_How could a heavy smash to the ground be done? Why not trying with a giant mace?_
 
 ### Preparation
 As mentioned when talking about the Feeling of Mastery section, Bosses are like tests to the player to ensure they master a certain degree of skill. Knowing that, a Boss Fight should not be the moment to introduce new abilities or mechanics to players, as they would need to adapt to them during the fight itself. 
