@@ -2,7 +2,7 @@
 I am CRISTIAN PALOS, student of the [Bachelor's Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer
 [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).
 
-## Introduction
+## Introduction: The problem with Boss Design
 
 
 ## Types of Boss
@@ -105,7 +105,12 @@ The same applies with Sound effects. Having a big, heavy-looking Boss accompanie
 
 
 ### Visual Design
-Bosses should stand out from any other kind of enemy on the map. They have to be easily recognizable by the player, as they will focus their attention on them. 
+Bosses should stand out from any other kind of enemy on the map. They have to be easily recognizable by the player, as they will focus their attention on them.
+
+Usually, what most designers tend to do is to make Bosses considerably bigger than regular enemies. This way, the player can distinguish it perfectly, and it also creates another interesting effetc; the sense of facing something more powerful than you, something always present the Hero's Tale. 
+
+![](https://i.imgur.com/izx6xu9.jpg)   
+_This sure does not look like a regular enemy, does it? (Shadow of the Colossus, Team ICO (2005))_
 
 ### General mistakes when designing a boss
 
@@ -141,7 +146,7 @@ All the previous fights to her, are regular fighting-game fights, where you lear
 As Marie is basically static in the screen, the player can not predict her next move. All these elements, removed the strategy component  of the fight and turned it into a Heavy-attack-spam. 
 
 ![](https://github.com/kistofe/Boss-Design/blob/master/ezgif.com-video-to-gif.gif)   
-_Marie is not affected by hitstun and can throw atacks from so many different directions, making it almost impossible for the player to predict it._
+_Marie is not affected by hitstun and can throw atacks from so many different directions, making it almost impossible for the player to predict her._
 
 It is important to keep in mind what your game rules are when designing a Boss, and to be faithful to them.  
 
