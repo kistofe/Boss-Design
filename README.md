@@ -184,7 +184,7 @@ The combat stage is not only the physical place where the battle takes place, bu
 Some games have given a twist to that traditional choice and have opted for smaller stages. Why? Because playing with space is a powerful tool to make boss fights interesting. Bosses like Onryoki, from Nioh, can almost reach every point in the stage with one of his attacks. The way to actually beat him, is to make precise and timed usage of the rolling mechanic. 
 
 ![](https://i.imgur.com/uhOJY9Z.png)   
-_Onryoki's stage is considerably small. (Nioh, Team Ninja (2017)_
+_Onryoki's stage is considerably small taking into account its attack range. (Nioh, Team Ninja (2017)_
 
 However, small stages can be a double-edged blade if there's no meaning on reducing it. If reducing the size of the stage creates the feeling in the player that the fight is "unfair" or "not well-thought", then you probably should think twice before doing it. 
 
