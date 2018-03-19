@@ -208,7 +208,13 @@ It is important to keep in mind what your game rules are when designing a Boss, 
 - _**How to fix this?:**_ As said above, respect the rules of the game when designing a Boss. If you find yourself with a Boss that breaks the rules of your game you only have one solution, **get rid of your current design and start from zero**. 
 
 ## Boss Fight
-If you want to create a Boss with high durability, a good way to avoid making the player feel bored is to use a classical resource; **phases**. By dividing the fight in several phases, the player
+Boss battles should, or at least try to, constantly challenge the player in new ways. They should constantly represent a threat to the player and keep them concentrated during the whole battle. Thus, players should not get comfortable when fighting Bosses and should consider going through new strategies in order to get the victory. However, they should not achieve that result by introducing unknown mechanics, but combining those already presented to the player. 
+
+Another important thing to have in mind is that Bosses should have enough durability to be able to show all their strategies and gimmicks. But be careful with the way you create that durability, or your Boss could suffer from one of the problems discussed in the _General Mistakes_ section. 
+
+If you want to create a Boss with high durability, a good way to avoid making the player feel bored is to use a classical resource; **phases**. By dividing the fight in several phases, the player has resting moments during one phase and another and the moveset change also creates the effect of being in a completely new battle. 
+
+Finally, players should not be able to surpass the Boss strategy by pure luck. The design **has to ensure that the player knows which strategy** take to defeat the Boss and how to actually perform it. An example of that are the Bosses in The Legend of Zelda franchise, where the player **has to repeat the same procedure three times** to defeat the Boss.
 
 ### The "Pre-Boss" area
 In order to build up before a Boss battle, designers often create a "Pre-Boss" area where the player can basically recover and prepare for what comes next. The player can "feel" when they will have to face a Boss because of certain elements of level design, like save points just before entering a new area, conveniently placed Health recoveries or Weapons or suspiciously large, empty rooms. 
