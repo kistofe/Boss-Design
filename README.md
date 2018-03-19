@@ -52,7 +52,7 @@ Ideally, players should use all the things that they have learned previously to 
 _In the first dungeon, the player finds the Fairy Slingshot, the first new mechanic introduced in the game_
 
 ![](https://i.imgur.com/Mm08CmJ.png)
-_During the the Boss Fight, the player has to shoot it down from the ceiling by using the Slingshot_
+_During the Boss Fight, the player has to shoot it down from the ceiling by using the Slingshot_
 
 ![](https://i.imgur.com/R5hDcNe.png)
 _Once the Boss is on the floor, the player can attack it directly_
