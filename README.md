@@ -61,7 +61,7 @@ _(All images above pertain to "The Legend of Zelda: Ocarina of Time", Nintendo (
 
 
 ### Reasons
-It is important to know that players do not play a game because they have to, the play because they **enjoy** playing. Thinking on optimal ways to engage the player is one of the most difficult things to do when creating a videogame but it is also key to guarantee its success. 
+It is important to know that players do not play a game because they have to, the play because they **enjoy** playing. Thinking on optimal ways to engage the player is one of the most difficult things to do when creating a videogame, but it is also key to guarantee its success. 
 
 With Bosses, we find exactly the same thing; players need reasons to fight a Boss, reasons that make them feel that they are not wasting their time. 
 
@@ -88,14 +88,18 @@ Although there's nothing like a magic formula to create easily the perfect Boss,
 
 
 ### Purpose
-The first thing to have in mind when designing a Boss, is its _purpose_. This is probably one of the most important steps in the design process as we are basically creating the "pillars" on which the entire Boss Fight will be based. This process is divided in 3 steps. To illustrate them better, let's go one by one following an example from **"Hollow Knight" (Team Cherry, 2017)**.
+The first thing to have in mind when designing a Boss, is its _purpose_. This is probably one of the most important steps in the design process as we are basically creating the "pillars" on which the entire Boss fight will be based. 
+
+This process is divided in 3 steps. To illustrate them better, let's go one by one following an example from **"Hollow Knight" (Team Cherry, 2017)**.
 
 - **List of the skill to test:** Bosses are like tests for players, so the first thing to think about is _what_ is going to be tested with this boss. 
 
 ![](https://i.imgur.com/iLNXFwb.png)   
 _Let's say for example we want to test the jump mechanic of the main character._
 
-- **List of attacks or challenges that will test that skill:** Now we have decided _what_ to test, we have to think _how_ to actually test it. In this step, it is recommended to think of those challenges independently to avoid limiting our ideas on the actual design of the boss. 
+- **List of attacks or challenges that will test that skill:** Now we have decided _what_ to test, we have to think _how_ to actually test it.
+
+In this step, it is recommended to think of those challenges independently to avoid limiting our ideas on the actual design of the boss. 
 
 ![](https://i.imgur.com/YZWH6vY.png)
 ![](https://i.imgur.com/4ctdGM3.png)   
@@ -107,7 +111,7 @@ _One of the False Knight's attacks is a heavy smash which sends out shockwaves. 
 _How could a heavy smash to the ground be done? Why not trying with a giant mace?_
 
 ### Preparation
-As mentioned when talking about the Feeling of Mastery section, Bosses are like tests to the player to ensure they master a certain degree of skill. Knowing that, a Boss Fight should not be the moment to introduce new abilities or mechanics to players, as they would need to adapt to them during the fight itself. 
+As mentioned when talking about the _Feeling of Mastery_ section, Bosses are like tests to the player to ensure they master a certain degree of skill. Knowing that, a Boss Fight should not be the moment to introduce new abilities or mechanics to players, as they would need to adapt to them during the fight itself. 
 
 Instead, it is better to introduce those new abilities or mechanics during combats with regular enemies, as they are (generally) less punishing than boss fights.
 
@@ -115,32 +119,36 @@ Instead, it is better to introduce those new abilities or mechanics during comba
 Many designers, when creating their Bosses, ask themselves "How do I make my Boss challenging without overpowering it?". Well, to create a good difficulty curve for a Boss is not an easy task, but there are some things to take into account:
 
    - It should **adjust to the player's current state of development** in the game, in a natural way. It means that:
-      - Bosses at first stages of the game should only challenge the basic mechanics of it, as it's all the player will have learned up to that moment. 
-      - Bosses near middle stages should test the comprehension and usage of all learned abilities since that moment. 
-      - Finally, Bosses near the final stages should not only test that, but also the optimal usage and the ability of the player to overcome the challenges presented during the fight by using those mastered skills. 
+      - Bosses at **first stages of the game** should only challenge the basic mechanics of it, as it's all the player will have learned up to that moment. 
+      - Bosses near **middle stages** should test the comprehension and usage of all learned abilities since that moment. 
+      - Finally, Bosses near the **final stages** should not only test that, but also the optimal usage and the ability of the player to overcome the challenges presented during the fight by using those mastered skills. 
    - It should **stay faithful to the gameplay difficulty**; it has no sense to introduce an extremely difficult boss in a suitable for all audiences game. 
    
    ![](https://i.imgur.com/DJeDfhe.png) ![](https://i.imgur.com/RBQgZd7.png)   
    _The kind of Bosses in Super Mario Bros would feel out of place in a game like Super Meat Boy, known for its high difficulty. (New Super Mario Bros, Nintendo (2006)/ Super Meat Boy, Team Meat (2008))_
    
-   - Althought it is not strictly mandatory, Main Bosses should increase, in terms of difficulty, throughout the game. In order to avoid making the player feel overwhelmed by a constantly increasing difficulty, Secondary and Mini Bosses can escape from this small rule and act as "rest" moments. 
+   - Althought it is not strictly mandatory, Main Bosses should increase, in terms of difficulty, throughout the game.
+   
+   In order to avoid making the player feel overwhelmed by a constantly increasing difficulty, Secondary and Mini Bosses can escape from this small rule and act as "rest" moments. 
+   
+   
    - Difficulty is not only reduced to increasing stats. Optimal difficulty comes from constant challenges. 
    
 
 ### Music and Sound
-Music and Sound may sometimes go unnoticed by the player during the Boss Fight. However, this is not a reason not to put effort into creating a good audio to fit your Boss design. 
+Music and Sound may sometimes go unnoticed by the player during the Boss fight. However, this is not a reason not to put effort into creating a good audio to fit your Boss design. 
 
-Music is a powerful tool to create feelings in the player. A good battle theme is the one that flows with the battle, the one that increases its pace when the battle does too, and decreases it when the battle slows down. Having a good design accompanied by a lack of music or a repetitive, generic one, can ruin all your efforts and turn, what should have been a good battle, into something dull. 
+Music is a powerful tool to **create feelings in the player**. A good battle theme is the one that flows with the battle, the one that increases its pace when the battle does too, and decreases it when the battle slows down. Having a good design accompanied by a lack of music or a repetitive, generic one, can ruin all your efforts and turn, what should have been a good battle, into something dull. 
 
 _Anyone who has ever played Final Fantasy can recognize [Sephiroth's theme](https://www.youtube.com/watch?v=t7wJ8pE2qKU) just by listening a few seconds from it. Same applies with [San's theme](https://www.youtube.com/watch?v=ZcoqR9Bwx1Y), from 2015's Undertale._
 
 However, having a great battle music is not enough if it is not appropriate to the theme of the boss or the game. The theme has to **fit** with the scene, or it will only give the sensation that the music is there because someone in the team liked it. 
 
-The same applies with Sound effects. Having a big, heavy-looking Boss accompanied with non heavy-sounding sound effects may be confusing to the player. Be coherent with this!
+The same applies with Sound effects. Having a big, heavy-looking Boss accompanied with non heavy-sounding sound effects may be confusing to the player. Be **coherent** with this!
 
 
 ### Visual Design
-Bosses should stand out from any other kind of enemy on the map. They have to be easily recognizable by the player, as they will focus their attention on them.
+Bosses **should stand out from any other kind of enemy on the map**. They have to be easily recognizable by the player, as they will focus their attention on them.
 
 Usually, what most designers tend to do is to make Bosses considerably bigger than regular enemies. This way, the player can distinguish it perfectly, and it also creates another interesting effect; the sense of facing something more powerful than you, something always present in the Hero's Tale. 
 
@@ -148,16 +156,17 @@ Usually, what most designers tend to do is to make Bosses considerably bigger th
 _This sure does not look like a regular enemy, does it? (Shadow of the Colossus, Team ICO (2005))_
 
 ### General mistakes when designing a boss
->We've been learning that players in general want a game that rewards them for thinking and doesn't penalize them for meaningless randomness... We've been learning that players embrace a challenge and don't mind failing as long as the failure seems fair.
+>_We've been learning that players in general want a game that rewards them for thinking and doesn't penalize them for meaningless randomness... We've been learning that players embrace a challenge and don't mind failing as long as the failure seems fair._
    
    _Raphael van Lierop, founder and game director at The Long Dark studio Hinterland._
 
 
 **More HP, more difficulty**  
-One of the most extended mistakes when designing Bosses is to think that increasing the amount of HP they have, will instantly increase its difficulty. In some way, it does, but what we are doing here is creating **artificial difficulty**, which does not improve the gaming experience of the player in any sense.
+One of the most extended mistakes when designing Bosses, is to think that increasing the amount of HP they have, will instantly increase its difficulty. In some way, it does, but what we are doing here is creating **artificial difficulty**, which does not improve the gaming experience of the player in any sense.
 
 Combats with this kind of bosses tend to result tedious and repetitive to the player, which is something designers should avoid. 
 
+**How to fix this?:** Bosses surely have to last enough in alive in order to show their strategies to the player, however, only increasing its HP is not an optimal way to achieve it. Try adding some original gimmick to the Boss that takes the player by surprise and breaks the monotony. 
 
 **Strange gimmicks not explained to the player**  
 A classic mistake among unexperienced designers is to think that anything goes when talking about originality. When designing, in this case, a Boss, we all try to be different from the rest and try to come up with a great idea to blow up the players mind. This is a dangerous moment, because it is easy to jump from a good, original idea, into something completely the opposite. 
@@ -192,6 +201,8 @@ _Marie is not affected by hitstun and can throw atacks from so many different di
 It is important to keep in mind what your game rules are when designing a Boss, and to be faithful to them.  
 
 ## Boss Fight
+If you want to create a Boss with high durability, a good way to avoid making the player feel bored is to use a classical resource; **phases**. By dividing the fight in several phases, the player
+
 ### The "Pre-Boss" area
 In order to build up before a Boss battle, designers often create a "Pre-Boss" area where the player can basically recover and prepare for what comes next. The player can "feel" when they will have to face a Boss because of certain elements of level design, like save points just before entering a new area, conveniently placed Health recoveries or Weapons or suspiciously large, empty rooms. 
 
