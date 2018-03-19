@@ -141,7 +141,7 @@ A classic mistake among unexperienced designers is to think that anything goes w
 
 Introducing strange gimmicks during Boss battles without giving any hint to the player to overcome them, is not a good design flow. Players need to feel they are in control of the situation or, at least, that they have the tools to respond to unexpected moments. 
 
-![](https://i.imgur.com/ODcsmJD.png)   
+![](https://i.imgur.com/V6StlYR.png)   
 _Ruby Weapon, in Final Fantasy VII, is completely immune to damage unless you enter its battle with two of your team members dead. This, of course, is not even explained to the player inside the game. (Final Fantasy VII, Squaresoft (1999))_
 
 **Randomness**   
