@@ -220,10 +220,8 @@ Another important thing to have in mind is that Bosses should have enough durabi
 
 If you want to create a Boss with high durability, a good way to avoid making the player feel bored is to use a classical resource; **phases**. By dividing the fight in several phases, the player has resting moments during one phase and another and the moveset change also creates the effect of being in a completely new battle. 
 
-
+![](https://i.imgur.com/A7d53M5.png)   
 _The final battle against Sephiroth is split into three different phases, with significant variations in his moveset and strategy:_
-![](https://i.imgur.com/nL6rBxD.png)   
-_
 
 Finally, players should not be able to surpass the Boss strategy by pure luck. The design **has to ensure that the player knows which strategy** take to defeat the Boss and how to actually perform it. An example of that are the Bosses in The Legend of Zelda franchise, where the player **has to repeat the same procedure three times** to defeat the Boss.
 
