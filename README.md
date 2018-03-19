@@ -83,7 +83,7 @@ Here's a list of possible reasons you may base your Boss designs on:
 
 
 ## Designing a Boss
-Although there's nothing like a magic formula to create easily the perfect Boss, there exists some aspects that well merged can put you in a good spot to accomplish this difficult task. 
+Although **there's nothing like a magic formula to create easily the perfect Boss**, there exists some aspects that well merged can put you in a good spot to accomplish this difficult task. 
 
 
 ### Purpose
