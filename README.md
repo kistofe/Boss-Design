@@ -19,16 +19,25 @@ First, let's see some definitions. Depending on their role, Bosses can be:
 ### Mini-Boss or Sub-Boss
 They are not "Bosses" as we all know, but exceptionally strong enemies that tend to appear in the middle of a level. 
 
+![](https://i.imgur.com/xqRFTp0.jpg)   
+_Big Daddy, from the Bioshock franchise. (2K Games)_
+
 ### Secondary or Optional Boss
 Secondary Bosses are those Bosses that do not pertain to the main plot line of the videogame. Generally, they can be fought by the player if they fulfill some conditions, like simply finding it, getting "x" object and going to "y" place, talking to a certain NPC, etc. 
 
 Seconary Bosses can also be used to expand the world in which the game takes place. 
+
+![](https://i.imgur.com/1EUNjxU.jpg)
+_The Nameless King, from Dark Souls 3. (From Software, 2016)_
 
 ### Main Boss
 Bosses which affect directly the development of the plot of the game and can't be avoided to reach its ending.
 
 ### Final Boss
 The Final Boss of a videogame is also a kind of Main Boss. It differs from the rest in the fact that it generally appears more than once throughout the whole game, which creates a deeper relation with the player.   
+
+![](https://i.imgur.com/EgQlHcl.jpg)   
+_Ganon, from The Legend of Zelda: Ocarina of Time. (Nintendo, 1998)_
 
 ### Design differences between them
 ## What do boss battles mean for players?
