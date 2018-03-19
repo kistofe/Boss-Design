@@ -202,7 +202,7 @@ Fighting the final Boss is the climax of the game, all the entire journey has ta
 
 Defeating the Final Boss is a key moment in the gaming experience and players should feel like they really have achieved something out of normal. Specially with Final Bosses, players should see the result of all their effort in someway, so finishing the battle and seeing nothing more than a short cutscene would ruin all the greatness of the moment. 
 
-Players want to know how their actions affected the world. What happened to the main characters? Is everything better know? Has nothing changed after the journey?
+Players want to know how their actions affected the world. **What happened to the main characters? Is everything better know? Has nothing changed after the journey?**
 
 ![](https://i.imgur.com/keIxKFm.png)   
 _Right after defeating Demise, we can see this scene where Link, Zelda and himself are cursed to reborn and fight again and again, starting the eternal fight that distinguishes the saga. (The Legend of Zelda: Skyward Sword, Nintendo (2011))_
