@@ -176,7 +176,7 @@ Introducing strange gimmicks during Boss battles without giving any hint to the 
 ![](https://i.imgur.com/V6StlYR.png)   
 _Ruby Weapon, in Final Fantasy VII, is completely immune to damage unless you enter its battle with two of your team members dead. This, of course, is not even explained to the player inside the game. (Final Fantasy VII, Squaresoft (1999))_
 
-- _**How to fix this?:**_ Strange gimmicks are OK, as long as they are explained to the player. Introduce small hints or visual elements that help to player to discover how to actually beat that gimmick.  
+- _**How to fix this?:**_ Strange gimmicks are OK, as long as they are explained to the player. Introduce small hints or visual elements that help the player to discover how to actually beat that gimmick.  
 
 **Randomness**   
 Randomness can be a powerful tool, but also a dangerous one. It is used in party games to reduce the skill gap between players, as party games aim for the spontaneous fun and not for the correct skill development of the players. 
@@ -244,7 +244,7 @@ Players want to know how their actions affected the world. **What happened to th
 ![](https://i.imgur.com/keIxKFm.png)   
 _Right after defeating Demise, we can see this scene where Link, Zelda and himself are cursed to reborn and fight again and again, starting the eternal fight that distinguishes the saga. (The Legend of Zelda: Skyward Sword, Nintendo (2011))_
 
-## Webgraphy
+## Useful resources
 
 ### Articles
 [Engaging the player in fun, appropriately challenging, and climactic fights](https://rpgmaker.net/articles/476/)
