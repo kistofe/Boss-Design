@@ -161,14 +161,14 @@ _This sure does not look like a regular enemy, does it? (Shadow of the Colossus,
    _Raphael van Lierop, founder and game director at The Long Dark studio Hinterland._
 
 
-**More HP, more difficulty**  
+- **More HP, more difficulty**  
 One of the most extended mistakes when designing Bosses, is to think that increasing the amount of HP they have, will instantly increase its difficulty. In some way, it does, but what we are doing here is creating **artificial difficulty**, which does not improve the gaming experience of the player in any sense.
 
 Combats with this kind of bosses tend to result tedious and repetitive to the player, which is something designers should avoid. 
 
-**How to fix this?:** Bosses surely have to last enough in alive in order to show their strategies to the player, however, only increasing its HP is not an optimal way to achieve it. Try adding some original gimmick to the Boss that takes the player by surprise and breaks the monotony. 
+_**How to fix this?:**_ Bosses surely have to last enough in alive in order to show their strategies to the player, however, only increasing its HP is not an optimal way to achieve it. Try adding some original gimmick to the Boss that takes the player by surprise and breaks the monotony. 
 
-**Strange gimmicks not explained to the player**  
+- **Strange gimmicks not explained to the player**  
 A classic mistake among unexperienced designers is to think that anything goes when talking about originality. When designing, in this case, a Boss, we all try to be different from the rest and try to come up with a great idea to blow up the players mind. This is a dangerous moment, because it is easy to jump from a good, original idea, into something completely the opposite. 
 
 Introducing strange gimmicks during Boss battles without giving any hint to the player to overcome them, is not a good design flow. Players need to feel they are in control of the situation or, at least, that they have the tools to respond to unexpected moments. 
@@ -176,14 +176,19 @@ Introducing strange gimmicks during Boss battles without giving any hint to the 
 ![](https://i.imgur.com/V6StlYR.png)   
 _Ruby Weapon, in Final Fantasy VII, is completely immune to damage unless you enter its battle with two of your team members dead. This, of course, is not even explained to the player inside the game. (Final Fantasy VII, Squaresoft (1999))_
 
-**Randomness**   
+_**How to fix this?:**_ Strange gimmicks are OK, as long as they are explained to the player. Introduce small hints or visual elements that help to player to discover how to actually beat that gimmick.  
+
+- **Randomness**   
 Randomness can be a powerful tool, but also a dangerous one. It is used in party games to reduce the skill gap between players, as party games aim for the spontaneous fun and not for the correct skill development of the players. 
 
 Randomness in videogames has always existed, but the incorrect use of it has a negative impact on the experience. Imagine an RPG Boss that each turn had a 50% chance to knock one of your team members down. Sounds funny? 
 
 When fighting a Boss, players should feel like they can always win if they make the right decisions with the tools they have. Adding a high amount of randomness would break that feeling and would probably frustrate the player. 
 
-**Breaking the Game rules**   
+_**How to fix this?:**_ Reducing the randomness level of your Boss is the simplest way to fix this problem, as a certain degree of randomness in battles is commonly accepted as it adds a degree of unpredictability. If the element with randomness degree can't be reduced, consider removing it. 
+
+
+- **Breaking the Game rules**   
 Breaking the Game rules means to do the opposite the player has been taught during the whole game. Let's directly jump to an example: Marie, the final Boss of the History Mode of **Skullgirls (Reverge Labs, 2012).**
 
 ![](https://i.imgur.com/1h2ue0T.jpg)   
@@ -199,6 +204,8 @@ As Marie is basically static in the screen, the player can not predict her next 
 _Marie is not affected by hitstun and can throw atacks from so many different directions, making it almost impossible for the player to predict her._
 
 It is important to keep in mind what your game rules are when designing a Boss, and to be faithful to them.  
+
+_**How to fix this?:**_ As said above, respect the rules of the game when designing a Boss. If you find yourself with a Boss that breaks the rules of your game you only have one solution, **get rid of your current design and start from zero**. 
 
 ## Boss Fight
 If you want to create a Boss with high durability, a good way to avoid making the player feel bored is to use a classical resource; **phases**. By dividing the fight in several phases, the player
