@@ -185,7 +185,7 @@ Randomness in videogames has always existed, but the incorrect use of it has a n
 
 When fighting a Boss, players should feel like they can always win if they make the right decisions with the tools they have. Adding a high amount of randomness would break that feeling and would probably frustrate the player. 
 
-_**How to fix this?:**_ Reducing the randomness level of your Boss is the simplest way to fix this problem, as a certain degree of randomness in battles is commonly accepted as it adds a degree of unpredictability. If the element with randomness degree can't be reduced, consider removing it. 
+_**How to fix this?:**_ Reducing the randomness level of your Boss is the simplest way to fix this problem, as a certain degree of randomness in battles is commonly accepted as it adds a degree of indetermination. If the element with randomness degree can't be reduced, consider removing it. 
 
 
 - **Breaking the Game rules**   
