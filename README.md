@@ -196,7 +196,7 @@ _Marie, from Skullgirls._
 
 All the previous fights to her, are regular fighting-game fights, where you learn the basics of the combat system. 
 
-However, against her, none of that works; she can't be stunned, grabbed (not even by Blockbuster moves) or launched. Besides, She attacks from so many different ways at the same time, making it difficult to avoid, specially because some of those attacks require fast movement reaction, which not all the characters have. 
+However, against her, **none of that works**; she can't be stunned, grabbed (not even by Blockbuster moves) or launched. Besides, She attacks from so many different ways at the same time, making it difficult to avoid, specially because some of those attacks require fast movement reaction, which not all the characters have. 
 
 As Marie is basically static in the screen, the player can not predict her next move. All these elements removed the strategy component  of the fight and turned it into a Heavy-attack-spam. 
 
