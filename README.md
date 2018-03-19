@@ -27,7 +27,7 @@ Secondary Bosses are those Bosses that do not pertain to the main plot line of t
 
 Seconary Bosses can also be used to expand the world in which the game takes place. 
 
-![](https://i.imgur.com/1EUNjxU.jpg)
+![](https://i.imgur.com/1EUNjxU.jpg)   
 _The Nameless King, from Dark Souls 3. (From Software, 2016)_
 
 ### Main Boss
