@@ -130,6 +130,7 @@ _This sure does not look like a regular enemy, does it? (Shadow of the Colossus,
 
 ### General mistakes when designing a boss
 >We've been learning that players in general want a game that rewards them for thinking and doesn't penalize them for meaningless randomness... We've been learning that players embrace a challenge and don't mind failing as long as the failure seems fair.
+   
    _Raphael van Lierop, founder and game director at The Long Dark studio Hinterland._
 
 
