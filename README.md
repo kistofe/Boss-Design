@@ -10,6 +10,8 @@ I am [Cristian Palos](https://www.linkedin.com/in/cristian-palos-lasala-5578a315
 Since their very first appearance in 1975, Bosses became one of the most important and iconic elements in videogames, even surpassing in some cases the figure of the main character. 
 
 As new videogames appeared, every single designer wanted to create a Boss as succesful and charismatic as Bowser, as memorable as Ganondorf or as imposing as the colossi in Shadow of the Colossus. 
+![](https://i.imgur.com/EgQlHcl.jpg)
+_Ganon, from The Legend of Zelda: Ocarina of Time (Nintendo, 1998)_
 
 But, where do you start? Which are the steps you have to follow to create a successful Boss? In this article I'll try to throw some light into the design process of a Boss, remarking which are the most important elements to take into account as well as some mistakes designers usually make. 
 
