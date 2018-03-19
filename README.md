@@ -20,7 +20,7 @@ First, let's see some definitions. Depending on their role, Bosses can be:
 They are not "Bosses" as we all know, but exceptionally strong enemies that tend to appear in the middle of a level. 
 
 ### Secondary Boss
-Secondary Bosses are those Bosses that do not pertain to the main plot line of the videogame. Generally, they can be fought by the player if they fulfill some conditions, like simply finding it, getting "x" object and going to "x" place, talking to a certain NPC, etc. 
+Secondary Bosses are those Bosses that do not pertain to the main plot line of the videogame. Generally, they can be fought by the player if they fulfill some conditions, like simply finding it, getting "x" object and going to "y" place, talking to a certain NPC, etc. 
 
 Seconary Bosses can also be used to expand the world in which the game takes place. 
 
