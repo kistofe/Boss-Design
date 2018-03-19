@@ -214,9 +214,9 @@ These elements are small hints that reveal to the player that they will face a B
 
 
 ### The Fight
-Boss battles should, or at least try to, constantly challenge the player in new ways. They should constantly represent a threat to the player and keep them concentrated during the whole battle. Thus, players should not get comfortable when fighting Bosses and should consider going through new strategies in order to get the victory. However, they should not achieve that result by introducing unknown mechanics, but combining those already presented to the player. 
+Boss battles should, or at least try to, **constantly challenge the player** in new ways. They should **constantly represent a threat** to the player and **keep them concentrated** during the whole battle. Thus, players should not get comfortable when fighting Bosses and should consider going through new strategies in order to get the victory. However, they should not achieve that result by introducing unknown mechanics, but combining those already presented to the player. 
 
-Another important thing to have in mind is that Bosses should have enough durability to be able to show all their strategies and gimmicks. But be careful with the way you create that durability, or your Boss could suffer from one of the problems discussed in the _General Mistakes_ section. 
+Another important thing to have in mind is that **Bosses should have enough durability to be able to show all their strategies** and gimmicks. But be careful with the way you create that durability, or your Boss could suffer from one of the problems discussed in the _General Mistakes_ section. 
 
 If you want to create a Boss with high durability, a good way to avoid making the player feel bored is to use a classical resource; **phases**. By dividing the fight in several phases, the player has resting moments during one phase and another and the moveset change also creates the effect of being in a completely new battle. 
 
