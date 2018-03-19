@@ -39,7 +39,6 @@ The Final Boss of a videogame is also a kind of Main Boss. It differs from the r
 ![](https://i.imgur.com/EgQlHcl.jpg)   
 _Ganon, from The Legend of Zelda: Ocarina of Time. (Nintendo, 1998)_
 
-### Design differences between them
 ## What do boss battles mean for players?
 ### Feeling of Mastery
 Boss fights have a unique feeling among all battles in videogame. They are distinct to normal battles in the sense that they do not aim to serve as learning tools or to test if the player can use new skills, they serve as challenges to test whether the player has mastered the previously learned skills in the game or not.
@@ -220,6 +219,11 @@ Boss battles should, or at least try to, constantly challenge the player in new 
 Another important thing to have in mind is that Bosses should have enough durability to be able to show all their strategies and gimmicks. But be careful with the way you create that durability, or your Boss could suffer from one of the problems discussed in the _General Mistakes_ section. 
 
 If you want to create a Boss with high durability, a good way to avoid making the player feel bored is to use a classical resource; **phases**. By dividing the fight in several phases, the player has resting moments during one phase and another and the moveset change also creates the effect of being in a completely new battle. 
+
+
+_The final battle against Sephiroth is split into three different phases, with significant variations in his moveset and strategy:_
+![](https://i.imgur.com/nL6rBxD.png)   
+_
 
 Finally, players should not be able to surpass the Boss strategy by pure luck. The design **has to ensure that the player knows which strategy** take to defeat the Boss and how to actually perform it. An example of that are the Bosses in The Legend of Zelda franchise, where the player **has to repeat the same procedure three times** to defeat the Boss.
 
