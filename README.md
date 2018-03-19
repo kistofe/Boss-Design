@@ -3,22 +3,31 @@
 _Bowser, from the Super Mario franchise (Nintendo)_
 
 ## About the author
-I am [CRISTIAN PALOS](https://www.linkedin.com/in/cristian-palos-lasala-5578a315b/), student of the [Bachelor's Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer
+I am [Cristian Palos](https://www.linkedin.com/in/cristian-palos-lasala-5578a315b/), student of the [Bachelor's Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs/). This content is generated for the second year’s subject Project 2, under supervision of lecturer
 [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).
 
 ## Introduction
+Since their very first appearance, Bosses became one of the most important and iconic elements in videogames, even surpassing in some cases the figure of the main character. 
 
+
+In this article I'll try to throw some light into the design process of a Boss, remarking which are the most important elements to take into account as well as some mistakes designers usually make. 
 
 ## Types of Boss
-Depending on their role, Bosses can be:
+First, let's see some definitions. Depending on their role, Bosses can be:
 
 ### Mini-Boss or Sub-Boss
 They are not "Bosses" as we all know, but exceptionally strong enemies that tend to appear in the middle of a level. 
 
 ### Secondary Boss
+Secondary Bosses are those Bosses that do not pertain to the main plot line of the videogame. Generally, they can be fought by the player if they fulfill some conditions, like simply finding it, getting "x" object and going to "x" place, talking to a certain NPC, etc. 
+
+Seconary Bosses can also be used to expand the world in which the game takes place. 
+
 ### Main Boss
+Bosses which affect directly the development of the plot of the game and can't be avoided to reach its ending.
+
 ### Final Boss
-The Final Boss of a videogame is also a kind of Main Boss. It differs from the rest in the fact that it generally appears more than once throughout the whole game, which creates a deeper relation with the player. Memorable  
+The Final Boss of a videogame is also a kind of Main Boss. It differs from the rest in the fact that it generally appears more than once throughout the whole game, which creates a deeper relation with the player.   
 
 ### Design differences between them
 ## What do boss battles mean for players?
