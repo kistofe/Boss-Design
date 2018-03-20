@@ -128,9 +128,8 @@ Many designers, when creating their Bosses, ask themselves "How do I make my Bos
    
    - Althought it is not strictly mandatory, Main Bosses should increase, in terms of difficulty, throughout the game.
    
-   In order to avoid making the player feel overwhelmed by a constantly increasing difficulty, Secondary and Mini Bosses can escape from this small rule and act as "rest" moments. 
-   
-   
+   - In order to avoid making the player feel overwhelmed by a constantly increasing difficulty, Secondary and Mini Bosses can escape from this small rule and act as "rest" moments. 
+      
    - Difficulty is not only reduced to increasing stats. Optimal difficulty comes from constant challenges. 
    
 
@@ -208,7 +207,7 @@ It is important to keep in mind what your game rules are when designing a Boss, 
 
 ## Boss Fight
 ### The "Pre-Boss" area
-In order to build up before a Boss battle, designers often create a "Pre-Boss" area where the player can basically recover and prepare for what comes next. The player can "feel" when they will have to face a Boss because of certain elements of level design, like save points just before entering a new area, conveniently placed Health recoveries or Weapons or suspiciously large, empty rooms. 
+In order to build up the player expectations before a Boss battle, designers often create a "Pre-Boss" area where the player can basically recover and prepare for what comes next. The player can "feel" when they will have to face a Boss because of certain elements of level design, like save points just before entering a new area, conveniently placed Health recoveries or Weapons or suspiciously large, empty rooms. 
 
 These elements are small hints that reveal to the player that they will face a Boss in the next area. This preparation is a rewarding element for the player, as it prepares them for the fight and builds up their expectations. 
 
