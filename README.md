@@ -134,18 +134,25 @@ Many designers, when creating their Bosses, ask themselves "How do I make my Bos
 
 **How do we ensure that the difficulty degree of our Boss is on coherent parameters?** A good way to check the quality of our actual design is by iteration sessions with users (**_playtesting_**), from which we can gather really useful data of certain factors. 
 
-For example: Let's say we have designed a Final Boss with three different phases. In our playtesting session with a total amount of 20 users, we've obtained the next results: 
+For example: Let's say we have designed a Final Boss with three different phases. In our playtesting session, with a total amount of 20 users, we've obtained the next results: 
 
 ![](https://i.imgur.com/a9vX2jK.png)
 
-So, according to the results, only 10% of the playtesters defeated the Boss, which a quite small percentage of success. Now, to go further into the data analysis, we can check two more things; from the percentage of players who **have not been able** to defeat the Boss, **in which phase** have most players been defeated and from the percentage of players who **have been able** to defeat the Boss, how many tries did they need in order to do it.
+So, according to the results, only 10% of the playtesters defeated the Boss, which a quite small percentage of success. Now, to go further into the data analysis, we can check two more things; from the percentage of players who **have not been able** to defeat the Boss, **in which phase** have most players been defeated, and from the percentage of players who **have been able** to defeat the Boss, how many tries did they need in order to do it.
 
 In this case, we get the following results:
 
 ![](https://i.imgur.com/dBDvh15.png)   
 _Graph representing the playtester who were not able to defeat the Boss_
 
-With this information, we can see that the majority of the playtester were defeated in the **second phase**. This informations serves as identifiers on possible mistakes we may have done while designing the Boss. What we would now do is to **revise** the second phase looking for what is creating that excessive difficulty peak. 
+![](https://i.imgur.com/B1B9Ayl.png)
+_Graph representing the playtesters who were able to defeat the Boss_
+
+
+With this information, we can see that:
+   - The majority of the playtester who were defeated by the Boss, were defeated during the **second phase**. This informations serves as identifiers of possible mistakes we may have done while designing the Boss. What we would now do, is to **revise** the second phase looking for what is creating that excessive difficulty peak. 
+   
+   - From the 10% of users who defeated the Boss, 50% needed a single try and the other 50% needed 3 tries. Although this information is not as useful as the information of the players who failed, it is interesting to have into account this type of data when analysing a Boss. 
 
 
 ### Music and Sound
