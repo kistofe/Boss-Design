@@ -150,7 +150,7 @@ _Graph representing the playtesters who were able to defeat the Boss_
 
 
 With this information, we can see that:
-   - The majority of the playtester who were defeated by the Boss, were defeated during the **second phase**. This informations serves as identifiers of possible mistakes we may have done while designing the Boss. What we would now do, is to **revise** the second phase looking for what is creating that excessive difficulty peak. 
+   - The majority of the playtester who were defeated by the Boss, were defeated during the **second phase**. This informations serves as identifiers of possible mistakes we may have done while designing the Boss. What we would do now, is to **revise** the second phase looking for what is creating that excessive difficulty peak. 
    
    - From the 10% of users who defeated the Boss, 50% needed a single try and the other 50% needed 3 tries. Although this information is not as useful as the information of the players who failed, it is interesting to have into account this type of data when analysing a Boss. 
 
