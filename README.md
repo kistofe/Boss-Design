@@ -131,8 +131,14 @@ Many designers, when creating their Bosses, ask themselves "How do I make my Bos
    - In order to avoid making the player feel overwhelmed by a constantly increasing difficulty, Secondary and Mini Bosses can escape from this small rule and act as "rest" moments. 
       
    - Difficulty is not only reduced to increasing stats. Optimal difficulty comes from constant challenges. 
-   
 
+**How do we ensure that the difficulty degree of our Boss is on coherent parameters?** A good way to check the quality of our actual design is by iteration sessions with users (**_playtesting_**), from which we can gather really useful data of certain factors. 
+
+For example: Let's say we have designed a Final Boss with three different phases. In our playtesting session with a total amount of 20 users, we've obtained the next results: 
+
+![](https://i.imgur.com/a9vX2jK.png)
+
+So, according to the results, only 10% of the playtesters defeated the Boss, which a quite small percentage of success. 
 ### Music and Sound
 Music and Sound may sometimes go unnoticed by the player during the Boss fight. However, this is not a reason not to put effort into creating a good audio to fit your Boss design. 
 
