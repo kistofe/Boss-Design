@@ -283,10 +283,11 @@ First, let's assume we are fighting a Boss with our party, compound by three mem
 
 For this example, we'll just focus in HP and Attack stats. Here's a chart with all the characters' stats
 
-|            |HP|Attack|
-|Character 1 |130|40|
-|Character 2 |100|20|
-|Boss| 2500|90|
+|            | HP  |Attack|
+|------------|-----|------|
+|Character 1 |130  |40    |
+|Character 2 |100  |20    |
+|Boss        |2500 |90    |
 
 ## Useful resources
 
