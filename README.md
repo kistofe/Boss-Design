@@ -138,7 +138,16 @@ For example: Let's say we have designed a Final Boss with three different phases
 
 ![](https://i.imgur.com/a9vX2jK.png)
 
-So, according to the results, only 10% of the playtesters defeated the Boss, which a quite small percentage of success. 
+So, according to the results, only 10% of the playtesters defeated the Boss, which a quite small percentage of success. Now, to go further into the data analysis, we can check two more things; from the percentage of players who **have not been able** to defeat the Boss, **in which phase** have most players been defeated and from the percentage of players who **have been able** to defeat the Boss, how many tries did they need in order to do it.
+
+In this case, we get the following results:
+
+![](https://i.imgur.com/dBDvh15.png)   
+_Graph representing the playtester who were not able to defeat the Boss_
+
+With this information, we can see that the majority of the playtester were defeated in the **second phase**. This informations serves as identifiers on possible mistakes we may have done while designing the Boss. What we would now do is to **revise** the second phase looking for what is creating that excessive difficulty peak. 
+
+
 ### Music and Sound
 Music and Sound may sometimes go unnoticed by the player during the Boss fight. However, this is not a reason not to put effort into creating a good audio to fit your Boss design. 
 
