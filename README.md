@@ -272,3 +272,4 @@ _Right after defeating Demise, we can see this scene where Link, Zelda and himse
 
 [Good Game Design: Bosses](https://www.youtube.com/watch?v=YmwLPF11eos)
 
+[How Cuphead's Bosses (Try to) Kill You](https://www.youtube.com/watch?v=F8T6Ul4aHTI)
