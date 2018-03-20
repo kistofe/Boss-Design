@@ -39,6 +39,11 @@ The Final Boss of a videogame is also a kind of Main Boss. It differs from the r
 ![](https://i.imgur.com/EgQlHcl.jpg)   
 _Ganon, from The Legend of Zelda: Ocarina of Time. (Nintendo, 1998)_
 
+### Design differences between each type of Boss
+Each type of Boss has some considerations when talking about its design. 
+
+   - **Stats:** Obviously, Mini-Bosses are not supposed to be 
+
 ## What do boss battles mean for players?
 ### Feeling of Mastery
 Boss fights have a unique feeling among all battles in videogame. They are distinct to normal battles in the sense that they do not aim to serve as learning tools or to test if the player can use new skills, they serve as challenges to test whether the player has mastered the previously learned skills in the game or not.
@@ -274,20 +279,6 @@ Players want to know how their actions affected the world. **What happened to th
 
 ![](https://i.imgur.com/keIxKFm.png)   
 _Right after defeating Demise, we can see this scene where Link, Zelda and himself are cursed to reborn and fight again and again, starting the eternal fight that distinguishes the saga. (The Legend of Zelda: Skyward Sword, Nintendo (2011))_
-
-# The maths in Boss Design
-Up until this point, we've seen a ton of differnt aspects to take care in order to create a well-designed Boss, as well as a proper Fight. The last thing I want to talk about is about the maths in this design process, which is a more technical aspect. 
-
-In this section, I'll show, by following an example, how should we manage the numbers while designing a Boss. The example will be centered in an RPG game-like, but hopefully it can extrapolated to any other genre.
-First, let's assume we are fighting a Boss with our party, compound by three members.
-
-For this example, we'll just focus in HP and Attack stats. Here's a chart with all the characters' stats
-
-|            | HP  |Attack|
-|------------|-----|------|
-|Character 1 |130  |40    |
-|Character 2 |100  |20    |
-|Boss        |2500 |90    |
 
 ## Useful resources
 
