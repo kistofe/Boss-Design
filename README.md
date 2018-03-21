@@ -39,11 +39,6 @@ The Final Boss of a videogame is also a kind of Main Boss. It differs from the r
 ![](https://i.imgur.com/EgQlHcl.jpg)   
 _Ganon, from The Legend of Zelda: Ocarina of Time. (Nintendo, 1998)_
 
-### Design differences between each type of Boss
-Each type of Boss has some considerations when talking about its design. 
-
-   - **Stats:** Obviously, Mini-Bosses are not supposed to be 
-
 ## What do boss battles mean for players?
 ### Feeling of Mastery
 Boss fights have a unique feeling among all battles in videogame. They are distinct to normal battles in the sense that they do not aim to serve as learning tools or to test if the player can use new skills, they serve as challenges to test whether the player has mastered the previously learned skills in the game or not.
